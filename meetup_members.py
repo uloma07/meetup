@@ -5,6 +5,7 @@ import json
 import sys
 
 api_url = 'https://api.meetup.com/2/'
+grouptopics = {}
 
 
 
@@ -40,8 +41,8 @@ def get_members(api_key, group_urlname, page_size=200):
         except Exception as e:
             print(e)
 
-        # print(results)
-
+        #print(results)
+        
         num = len(results['results'])
         users += results['results']
 
@@ -55,8 +56,22 @@ def get_members(api_key, group_urlname, page_size=200):
             break
 
         request_string = results['meta']['next']
+    
+    usergroups = {}
+    #usertopics = {}
+    for user in users:
+        user_id = user["id"]
+        usergroups[f"{user_id}"] = get_user_groups(api_key,user_id)
 
-    print(json.dumps(users, indent=2))
+    with open("usergroups.json", 'w') as f:
+        f.write(json.dumps(usergroups, indent=2))
+    
+    with open("grouptopics.json", 'w') as f:
+        f.write(json.dumps(grouptopics, indent=2))
+
+
+    
+    print()
 
 
 def get_user_groups(api_key, member_id , page_size=200):
@@ -64,7 +79,7 @@ def get_user_groups(api_key, member_id , page_size=200):
     results = None
     groups = []
     query = 'groups'
-    request_string = f'{api_url}{query}?key={api_key}&member_id={member_id}&page={page_size}&only=id,link,rating,name,category.name,topics,members,topics.urlkey'
+    request_string = f'{api_url}{query}?key={api_key}&member_id={member_id}&page={page_size}&only=id,link,rating,urlname,name,category.name,topics,members,topics.urlkey'
 
     while True:
 
@@ -76,8 +91,8 @@ def get_user_groups(api_key, member_id , page_size=200):
         except Exception as e:
             print(e)
 
-        # print(results)
-
+        #print(results)
+        
         num = len(results['results'])
         groups += results['results']
 
@@ -92,7 +107,15 @@ def get_user_groups(api_key, member_id , page_size=200):
 
         request_string = results['meta']['next']
 
-    print(json.dumps(groups, indent=2))
+    #print(json.dumps(groups, indent=2))
+    groupvals = []
+    
+    for group in groups:
+         groupvals.append({"id":group["id"], "name":group['urlname']})
+         if (group['id'],group['urlname']) not in grouptopics.keys():
+            grouptopics[f"{group['id']}:{group['urlname']}"] = group["topics"]
+    return groupvals
+
 
 if __name__ == "__main__":
     main(sys.argv[1:])
