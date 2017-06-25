@@ -12,7 +12,7 @@ var pack = d3.pack()
 
 d3.csv("result.csv", function(d) {
     d.Count = +d.Count;
-    if (d.Count) return d;
+    if (d.Count > 3) return d;
 }, function(error, classes) {
     if (error) throw error;
 
