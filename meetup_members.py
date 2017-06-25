@@ -5,6 +5,7 @@ import json
 import sys
 
 api_url = 'https://api.meetup.com/2/'
+grouptopics = {}
 
 
 
@@ -57,13 +58,20 @@ def get_members(api_key, group_urlname, page_size=200):
         request_string = results['meta']['next']
     
     usergroups = {}
+    #usertopics = {}
     for user in users:
         user_id = user["id"]
         usergroups[f"{user_id}"] = get_user_groups(api_key,user_id)
-    #print(usergroups)
+
+    with open("usergroups.json", 'w') as f:
+        f.write(json.dumps(usergroups, indent=2))
+    
+    with open("grouptopics.json", 'w') as f:
+        f.write(json.dumps(grouptopics, indent=2))
+
 
     
-    print(json.dumps(usergroups, indent=2))
+    print()
 
 
 def get_user_groups(api_key, member_id , page_size=200):
@@ -101,8 +109,11 @@ def get_user_groups(api_key, member_id , page_size=200):
 
     #print(json.dumps(groups, indent=2))
     groupvals = []
+    
     for group in groups:
          groupvals.append({"id":group["id"], "name":group['urlname']})
+         if (group['id'],group['urlname']) not in grouptopics.keys():
+            grouptopics[f"{group['id']}:{group['urlname']}"] = group["topics"]
     return groupvals
 
 
