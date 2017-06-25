@@ -1,0 +1,8025 @@
+{
+  "165257712": [
+    {
+      "id": 1594526,
+      "name": "LondonR"
+    },
+    {
+      "id": 1954021,
+      "name": "graphdb-london"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 3255432,
+      "name": "Students2Startups"
+    },
+    {
+      "id": 6029162,
+      "name": "Geckoboard-London"
+    },
+    {
+      "id": 6709082,
+      "name": "data-science-lab"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 10337842,
+      "name": "Graduate-Data-Science-Initiative"
+    },
+    {
+      "id": 12103862,
+      "name": "Society-of-Data-Miners"
+    },
+    {
+      "id": 12713192,
+      "name": "Deep-Learning-London"
+    },
+    {
+      "id": 13722842,
+      "name": "Spark-London"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 14574542,
+      "name": "London-Bayesian-network-Meetup-Group"
+    },
+    {
+      "id": 14991272,
+      "name": "mapping-open-data-to-unlock-new-insights"
+    },
+    {
+      "id": 15981352,
+      "name": "Data-Science-Business-Analytics-London-Meetup"
+    },
+    {
+      "id": 16916722,
+      "name": "Eurostaff-Big-Data"
+    },
+    {
+      "id": 16936312,
+      "name": "Data-Natives-London"
+    },
+    {
+      "id": 18235566,
+      "name": "Hands-on-Big-data-science-workshop"
+    },
+    {
+      "id": 18318814,
+      "name": "NLU-London"
+    },
+    {
+      "id": 18570244,
+      "name": "Lagos-DataScience-Group"
+    },
+    {
+      "id": 18592055,
+      "name": "Advanced-Spark-and-TensorFlow-Meetup-London"
+    },
+    {
+      "id": 18606194,
+      "name": "Dis-Functional"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18674626,
+      "name": "London-Data-Science-Journal-Club"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 18742048,
+      "name": "Data-Scientist"
+    },
+    {
+      "id": 18775469,
+      "name": "Business-Analytics-and-Data-Science"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 19115240,
+      "name": "London-Spark-Coding-Dojo"
+    },
+    {
+      "id": 19121859,
+      "name": "TensorFlow-London"
+    },
+    {
+      "id": 19507175,
+      "name": "London-Containing-Bioinformatics-Data-Analytics-Meetup"
+    },
+    {
+      "id": 19548515,
+      "name": "London-Machine-Learning-Study-Group"
+    },
+    {
+      "id": 19569005,
+      "name": "Data-Science-for-Internet-of-Things-Meetup-London"
+    },
+    {
+      "id": 19625477,
+      "name": "Deep-Learning-Lab"
+    },
+    {
+      "id": 19839585,
+      "name": "Connected-Data-London"
+    },
+    {
+      "id": 19860912,
+      "name": "central_london_data_science"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 19881842,
+      "name": "London-Cloudera-User-Group"
+    },
+    {
+      "id": 20345549,
+      "name": "datasciencespeakers"
+    },
+    {
+      "id": 20394472,
+      "name": "Dataiku-London-Meetup-Group"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22312282,
+      "name": "London-Artificial-Intelligence-Deep-Learning"
+    },
+    {
+      "id": 22980384,
+      "name": "Artificially-Intelligent-Interface-Development"
+    },
+    {
+      "id": 24010678,
+      "name": "London-Deep-Learning-Meetup"
+    }
+  ],
+  "137165472": [
+    {
+      "id": 8931222,
+      "name": "AnalyticsNetwork"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "204587879": [
+    {
+      "id": 19309151,
+      "name": "NeuroTechLDN"
+    },
+    {
+      "id": 19927044,
+      "name": "https-www-facebook-com-Manorhousespeakers"
+    },
+    {
+      "id": 20297994,
+      "name": "CyberSecurity-Talks"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21268835,
+      "name": "Dyslexic-and-Dyspraxic-Champions"
+    }
+  ],
+  "11675560": [
+    {
+      "id": 1501605,
+      "name": "grad-dc"
+    },
+    {
+      "id": 1686346,
+      "name": "HacksHackersLondon"
+    },
+    {
+      "id": 3930852,
+      "name": "Find-A-tech-Job-In-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "196889858": [
+    {
+      "id": 1011472,
+      "name": "EntrepreneursInLondon"
+    },
+    {
+      "id": 1161763,
+      "name": "LondonEntrepreneursNetwork"
+    },
+    {
+      "id": 1464014,
+      "name": "London-Futurists"
+    },
+    {
+      "id": 1606962,
+      "name": "ProductTank"
+    },
+    {
+      "id": 1661987,
+      "name": "The-Black-of-Clubs"
+    },
+    {
+      "id": 1768000,
+      "name": "YoungProfessionalsinLondon"
+    },
+    {
+      "id": 2590642,
+      "name": "iotlondon"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3440102,
+      "name": "Data-Visualization-London"
+    },
+    {
+      "id": 4201042,
+      "name": "London-Investors-Entrepreneurs"
+    },
+    {
+      "id": 4273772,
+      "name": "socialdata"
+    },
+    {
+      "id": 4455882,
+      "name": "ln-enterprise-tech"
+    },
+    {
+      "id": 4464402,
+      "name": "English-Language-Practice-And-Social"
+    },
+    {
+      "id": 5575272,
+      "name": "Flying-Solo-Events"
+    },
+    {
+      "id": 6787822,
+      "name": "London-Artificial-Intelligence-Futurists"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 9680462,
+      "name": "London-Startup-Founder-101"
+    },
+    {
+      "id": 10334072,
+      "name": "Hardware-Pioneers-London-Hardware-Startups"
+    },
+    {
+      "id": 10349092,
+      "name": "Bored-in-London"
+    },
+    {
+      "id": 12983072,
+      "name": "Startups-Entrepreneurs-and-Investors"
+    },
+    {
+      "id": 12983892,
+      "name": "technopreneurs"
+    },
+    {
+      "id": 13143622,
+      "name": "Pirate-Party-London-Meetups"
+    },
+    {
+      "id": 13500342,
+      "name": "African-Business-Entrepreneur-Networking"
+    },
+    {
+      "id": 16462462,
+      "name": "London-New-Tech"
+    },
+    {
+      "id": 18198734,
+      "name": "Start-ups-pitch-and-New-Connections"
+    },
+    {
+      "id": 18356664,
+      "name": "Digital"
+    },
+    {
+      "id": 18363136,
+      "name": "South-London-Tech-Meetups"
+    },
+    {
+      "id": 18416125,
+      "name": "Service-Lab-London"
+    },
+    {
+      "id": 18544175,
+      "name": "Next-Level-Entrepreneurs"
+    },
+    {
+      "id": 18660042,
+      "name": "Neurons-AI-UK-London"
+    },
+    {
+      "id": 18968947,
+      "name": "Internationals-in-Munchen"
+    },
+    {
+      "id": 19721176,
+      "name": "Le-Wagon-London-Coding-School"
+    },
+    {
+      "id": 20113100,
+      "name": "Early-Adopters-users-developers"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "186406258": [
+    {
+      "id": 473853,
+      "name": "WorldMusicMeetup"
+    },
+    {
+      "id": 1672967,
+      "name": "LondonQS"
+    },
+    {
+      "id": 1679003,
+      "name": "Jazz-Blues-and-Friends"
+    },
+    {
+      "id": 1686346,
+      "name": "HacksHackersLondon"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1815097,
+      "name": "sing-in-london-UK"
+    },
+    {
+      "id": 2739822,
+      "name": "The-London-Taste-Of-Africa"
+    },
+    {
+      "id": 3289842,
+      "name": "IMTLondon"
+    },
+    {
+      "id": 3554552,
+      "name": "UK-Hackathons-and-Jams"
+    },
+    {
+      "id": 4630592,
+      "name": "Afrobeats-Fans-in-London"
+    },
+    {
+      "id": 7551312,
+      "name": "HealthTechnologyForum-London"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 12599182,
+      "name": "Future-Thinking-in-Digital-Marketing-Meetup"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 15981952,
+      "name": "TechCityCoffee"
+    },
+    {
+      "id": 17250172,
+      "name": "London-Healthcare-and-Medical-technology-innovators"
+    },
+    {
+      "id": 18408311,
+      "name": "London-Live-Black-Music-Gigs-Concert-Meetup"
+    },
+    {
+      "id": 18476818,
+      "name": "Web-Analytics-Wednesday-London"
+    },
+    {
+      "id": 18484603,
+      "name": "Institute-of-Rhythm-Blues"
+    },
+    {
+      "id": 18509845,
+      "name": "Mobile-Health-Meetup"
+    },
+    {
+      "id": 18589612,
+      "name": "Tech-Tuesday-London"
+    },
+    {
+      "id": 18645674,
+      "name": "London-Cognitive-Computing-Meetup"
+    },
+    {
+      "id": 18663324,
+      "name": "livemusiclondon"
+    },
+    {
+      "id": 18695642,
+      "name": "Exoticafood"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 18714141,
+      "name": "London-Streams"
+    },
+    {
+      "id": 18717919,
+      "name": "software-circus-LDN"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 19077422,
+      "name": "lovesinging"
+    },
+    {
+      "id": 19154940,
+      "name": "London-Image-Processing-Meetup"
+    },
+    {
+      "id": 19332993,
+      "name": "City-Gospel-Choir"
+    },
+    {
+      "id": 19478264,
+      "name": "s9s-Polyglot-Persistence-London"
+    },
+    {
+      "id": 19485358,
+      "name": "London-Computer-Security-Meetup"
+    },
+    {
+      "id": 19507175,
+      "name": "London-Containing-Bioinformatics-Data-Analytics-Meetup"
+    },
+    {
+      "id": 19507666,
+      "name": "London-Machine-Learning-Practice-Meetup"
+    },
+    {
+      "id": 19569005,
+      "name": "Data-Science-for-Internet-of-Things-Meetup-London"
+    },
+    {
+      "id": 19594874,
+      "name": "STEM-Talks-at-Kings-College-London"
+    },
+    {
+      "id": 19624268,
+      "name": "London-Data-Governance-Meetup"
+    },
+    {
+      "id": 19647424,
+      "name": "Disruptive-Startups-Entrepreneurs"
+    },
+    {
+      "id": 19768279,
+      "name": "Artificial-Intelligence-Meetup-London"
+    },
+    {
+      "id": 19797764,
+      "name": "Messaging-Bots-London"
+    },
+    {
+      "id": 19807781,
+      "name": "Expert-Talks-Mobile"
+    },
+    {
+      "id": 19811345,
+      "name": "DR-DRinks-Meetup-London"
+    },
+    {
+      "id": 19811429,
+      "name": "London-Karaoke-Singing-Meetup"
+    },
+    {
+      "id": 19816483,
+      "name": "Startups-and-Makers-Week"
+    },
+    {
+      "id": 19851925,
+      "name": "africans-give-back"
+    },
+    {
+      "id": 19895990,
+      "name": "London-Javascript"
+    },
+    {
+      "id": 19896005,
+      "name": "The-Intrapreneurs-Truly-innovators-from-within"
+    },
+    {
+      "id": 19911635,
+      "name": "ThinkBigAnalytics"
+    },
+    {
+      "id": 19923840,
+      "name": "Access-Silicon-Valley-London"
+    },
+    {
+      "id": 19937409,
+      "name": "Wimbledon-Supper-Club"
+    },
+    {
+      "id": 19937984,
+      "name": "Learn-to-build-a-website-with-HTML-CSS"
+    },
+    {
+      "id": 19944387,
+      "name": "datasciencenetworklondon"
+    },
+    {
+      "id": 19986274,
+      "name": "DataViz-London"
+    },
+    {
+      "id": 19994709,
+      "name": "Science-in-Social-Settings-London"
+    },
+    {
+      "id": 20057753,
+      "name": "Sport-Tech-Collective"
+    },
+    {
+      "id": 20160639,
+      "name": "London-Healthcare-Leaders-Forum"
+    },
+    {
+      "id": 20160923,
+      "name": "SnackandHack"
+    },
+    {
+      "id": 20189985,
+      "name": "Tiny-Tableau-Talks"
+    },
+    {
+      "id": 20214881,
+      "name": "Big-Data-Next-Gen-Hadoop-Ingest-Transform-London"
+    },
+    {
+      "id": 20237533,
+      "name": "Touch-Surgery"
+    },
+    {
+      "id": 20304876,
+      "name": "London-Modern-Excel-Meetup"
+    },
+    {
+      "id": 20326276,
+      "name": "Full-Stack-Quants"
+    },
+    {
+      "id": 20350010,
+      "name": "Campfire-Choir"
+    },
+    {
+      "id": 20370822,
+      "name": "foodclublondon"
+    },
+    {
+      "id": 20374846,
+      "name": "londonfoundersclub"
+    },
+    {
+      "id": 20381707,
+      "name": "APIs-more"
+    },
+    {
+      "id": 20508384,
+      "name": "Geovation-Hub-Events"
+    },
+    {
+      "id": 20638710,
+      "name": "meetup-group-ZovapbUW"
+    },
+    {
+      "id": 20770181,
+      "name": "Data-Eats-The-World"
+    },
+    {
+      "id": 20885254,
+      "name": "Medical-Imaging-Technology"
+    },
+    {
+      "id": 21035612,
+      "name": "Global-South-Tech-Meetup-London"
+    },
+    {
+      "id": 21149223,
+      "name": "London-Design-Play"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21752397,
+      "name": "pointlondon"
+    },
+    {
+      "id": 21795040,
+      "name": "meetup-group-SwyKxWXR"
+    },
+    {
+      "id": 21818486,
+      "name": "amazic"
+    },
+    {
+      "id": 21839127,
+      "name": "Pitch-Your-Business-Idea-and-Connect-With-Funders"
+    },
+    {
+      "id": 21845267,
+      "name": "London-African-Supper-Club"
+    },
+    {
+      "id": 22062516,
+      "name": "Young-Music-Fashion-Design-Tech-Creatives-in-London"
+    },
+    {
+      "id": 22229258,
+      "name": "One-Thousand-and-One-Nights-Out"
+    },
+    {
+      "id": 22652025,
+      "name": "Panel-Discussion-Networking-Events-for-Black-Professionals"
+    },
+    {
+      "id": 22662583,
+      "name": "How-to-Build-High-Impact-Technology-Science-Companies"
+    },
+    {
+      "id": 22725988,
+      "name": "digital-transformation-in-london"
+    },
+    {
+      "id": 22746075,
+      "name": "Web-XR"
+    },
+    {
+      "id": 22791986,
+      "name": "RecSys-London"
+    },
+    {
+      "id": 22896718,
+      "name": "WeR-stats"
+    },
+    {
+      "id": 22896828,
+      "name": "Gourmet-Burger-Lovers-30-45-Year-Olds"
+    },
+    {
+      "id": 22956207,
+      "name": "London-Sports-Analytics-Meetup"
+    },
+    {
+      "id": 23008406,
+      "name": "Art-Fans-in-London"
+    },
+    {
+      "id": 23032552,
+      "name": "Entrepreneurs-Investors-Pitching-Event"
+    },
+    {
+      "id": 23159324,
+      "name": "After-work-Drinks-Lets-shake-it-off"
+    },
+    {
+      "id": 23159572,
+      "name": "BI-Planning-4-0"
+    },
+    {
+      "id": 23159650,
+      "name": "Machine-Gurus-The-Big-Data-Meet-Up"
+    },
+    {
+      "id": 23175694,
+      "name": "The-Copyright-Hub"
+    },
+    {
+      "id": 23199336,
+      "name": "AI-Machine-Learning-Enterprise-Applications"
+    },
+    {
+      "id": 23207558,
+      "name": "London-digital-Make-it-Meetup"
+    },
+    {
+      "id": 23212513,
+      "name": "Backdoor-London"
+    },
+    {
+      "id": 23218147,
+      "name": "London-Probability-Theory-Meetup"
+    },
+    {
+      "id": 23228841,
+      "name": "Longidi-Events"
+    },
+    {
+      "id": 23229047,
+      "name": "ukblacktech"
+    },
+    {
+      "id": 23255442,
+      "name": "Data-Scienziati-of-London"
+    },
+    {
+      "id": 23257977,
+      "name": "Data-Science-Insight-Series"
+    },
+    {
+      "id": 23268408,
+      "name": "Beating-Humans-in-Cognition"
+    },
+    {
+      "id": 23293423,
+      "name": "The-Radical-Entrepreneur"
+    },
+    {
+      "id": 23304120,
+      "name": "London-Sketchbook-Festival"
+    },
+    {
+      "id": 23310699,
+      "name": "Black-Start-up-Meet-up"
+    },
+    {
+      "id": 23390318,
+      "name": "London-SmarTech-Society-Discussion-Group"
+    },
+    {
+      "id": 23401323,
+      "name": "Discover-cultures-of-World"
+    },
+    {
+      "id": 23404465,
+      "name": "SEO-London-with-Data-Science-and-Machine-Learning"
+    },
+    {
+      "id": 23438002,
+      "name": "Narrative-Eye-Black-British-History-Meetup"
+    },
+    {
+      "id": 23605949,
+      "name": "Businesses-Going-Digital-London"
+    },
+    {
+      "id": 23701587,
+      "name": "Upstream-Hammersmith-Fulham-tech-creative-network"
+    }
+  ],
+  "194440563": [
+    {
+      "id": 1161763,
+      "name": "LondonEntrepreneursNetwork"
+    },
+    {
+      "id": 1309601,
+      "name": "startups-london"
+    },
+    {
+      "id": 1761047,
+      "name": "SiliconRoundabout"
+    },
+    {
+      "id": 1798667,
+      "name": "Developers-Entrepreneurs"
+    },
+    {
+      "id": 9581702,
+      "name": "General-Assembly-Meetup"
+    },
+    {
+      "id": 10373012,
+      "name": "london-entrepreneurs"
+    },
+    {
+      "id": 12983072,
+      "name": "Startups-Entrepreneurs-and-Investors"
+    },
+    {
+      "id": 16743272,
+      "name": "Coaching-Exchange"
+    },
+    {
+      "id": 18198734,
+      "name": "Start-ups-pitch-and-New-Connections"
+    },
+    {
+      "id": 18525926,
+      "name": "Driving-awareness-for-your-startup"
+    },
+    {
+      "id": 18725178,
+      "name": "London-Startup-Pitching-Networking"
+    },
+    {
+      "id": 18776320,
+      "name": "LondonAppBrewery"
+    },
+    {
+      "id": 19104790,
+      "name": "MoJo-London"
+    },
+    {
+      "id": 19125312,
+      "name": "Crowdfunding-Accelerators-Investment-London"
+    },
+    {
+      "id": 19590500,
+      "name": "New-to-the-UK-London"
+    },
+    {
+      "id": 19738019,
+      "name": "c0d1ng"
+    },
+    {
+      "id": 20226373,
+      "name": "Bots-AI-Messaging-Meetup"
+    },
+    {
+      "id": 20235464,
+      "name": "AndHack"
+    },
+    {
+      "id": 20274709,
+      "name": "uxconnect"
+    },
+    {
+      "id": 20275260,
+      "name": "DevOps-University-London"
+    },
+    {
+      "id": 20300306,
+      "name": "South-East-London-Startups"
+    },
+    {
+      "id": 20434768,
+      "name": "UX-Design-Courses-London"
+    },
+    {
+      "id": 20709821,
+      "name": "London-Online-Business-Startup"
+    },
+    {
+      "id": 20905903,
+      "name": "London-Code-College"
+    },
+    {
+      "id": 21035612,
+      "name": "Global-South-Tech-Meetup-London"
+    },
+    {
+      "id": 21130600,
+      "name": "Personal-Branding-Strategies"
+    },
+    {
+      "id": 21207025,
+      "name": "London-App-Makers"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21319577,
+      "name": "Coding-Days-Learn-to-code"
+    },
+    {
+      "id": 21530435,
+      "name": "Startup-Explosion-Bust-The-Myths-Live-Your-Dream"
+    },
+    {
+      "id": 21530482,
+      "name": "London-Marketing-Technology-Group"
+    },
+    {
+      "id": 21839127,
+      "name": "Pitch-Your-Business-Idea-and-Connect-With-Funders"
+    },
+    {
+      "id": 22185824,
+      "name": "mentors-mentees"
+    },
+    {
+      "id": 22485431,
+      "name": "Croydon-Facebook-Meetup"
+    },
+    {
+      "id": 22827789,
+      "name": "Croydon-Business-Planning-Meetup"
+    },
+    {
+      "id": 22949420,
+      "name": "Croydons-StartUp-Studio"
+    },
+    {
+      "id": 23603351,
+      "name": "the-talent-io-club"
+    },
+    {
+      "id": 23878417,
+      "name": "Mobile-Web-App-Development-Meetup"
+    },
+    {
+      "id": 24295022,
+      "name": "SaaS-Enterprise-Software-Meetup"
+    },
+    {
+      "id": 24437720,
+      "name": "Young-Entrepreneurs-Young-Software-Developers"
+    },
+    {
+      "id": 24457363,
+      "name": "SLUX-South-London-UX-UI-Meetup"
+    },
+    {
+      "id": 24477396,
+      "name": "self-made-marketer"
+    },
+    {
+      "id": 24550741,
+      "name": "User-Research-Huddle"
+    },
+    {
+      "id": 24599275,
+      "name": "Meetup-Customer-Service-Technology-London"
+    }
+  ],
+  "189653913": [
+    {
+      "id": 2739822,
+      "name": "The-London-Taste-Of-Africa"
+    },
+    {
+      "id": 3185662,
+      "name": "IGNITE-Fundraisers-monthly-startup-pitch-events"
+    },
+    {
+      "id": 4630592,
+      "name": "Afrobeats-Fans-in-London"
+    },
+    {
+      "id": 6151892,
+      "name": "LondonArduino"
+    },
+    {
+      "id": 17412612,
+      "name": "AfricaTechLondon"
+    },
+    {
+      "id": 18493278,
+      "name": "Internet-of-Everything-London"
+    },
+    {
+      "id": 18533088,
+      "name": "mojuba"
+    },
+    {
+      "id": 18618198,
+      "name": "Igbo-Singles"
+    },
+    {
+      "id": 18958440,
+      "name": "The-Afropolitan-Elite"
+    },
+    {
+      "id": 18989998,
+      "name": "Dsantos-Dance-UK-Salsa-Kizomba-Bachata-Club"
+    },
+    {
+      "id": 19159547,
+      "name": "capoeiraacademyuk"
+    },
+    {
+      "id": 20185243,
+      "name": "AfriCine-Films-Nollyfest-Film-Club"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21492480,
+      "name": "London-Monthly-Web-Hackathon"
+    }
+  ],
+  "210265948": [
+    {
+      "id": 1070873,
+      "name": "filmind-351"
+    },
+    {
+      "id": 1509107,
+      "name": "web-folk-of-south-london"
+    },
+    {
+      "id": 10625522,
+      "name": "london-creative-coding"
+    },
+    {
+      "id": 11932682,
+      "name": "London-modular-synthesis-group"
+    },
+    {
+      "id": 16122942,
+      "name": "Forward-Partners-Live-Tech-Startup-Speakers-Events"
+    },
+    {
+      "id": 17105612,
+      "name": "South-East-Geek-London"
+    },
+    {
+      "id": 18153932,
+      "name": "AntiSocialLondon"
+    },
+    {
+      "id": 18363136,
+      "name": "South-London-Tech-Meetups"
+    },
+    {
+      "id": 20049114,
+      "name": "London-Nuts-Volt-Time-Metrology"
+    },
+    {
+      "id": 20213739,
+      "name": "Code-Mastery-Meetup"
+    },
+    {
+      "id": 20926271,
+      "name": "CppLondon"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22229683,
+      "name": "London-Workshops"
+    },
+    {
+      "id": 22339252,
+      "name": "codepod"
+    }
+  ],
+  "196290259": [
+    {
+      "id": 1518344,
+      "name": "search-london"
+    },
+    {
+      "id": 1561841,
+      "name": "es-london"
+    },
+    {
+      "id": 1594526,
+      "name": "LondonR"
+    },
+    {
+      "id": 1731903,
+      "name": "Cassandra-London"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1789394,
+      "name": "big-data-london"
+    },
+    {
+      "id": 1825811,
+      "name": "researchthing"
+    },
+    {
+      "id": 1954021,
+      "name": "graphdb-london"
+    },
+    {
+      "id": 2727402,
+      "name": "GeekChic"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 3648652,
+      "name": "BigData-Debate"
+    },
+    {
+      "id": 6166792,
+      "name": "Women-in-Data"
+    },
+    {
+      "id": 6315162,
+      "name": "Predictive-Analytics-London-Meetup"
+    },
+    {
+      "id": 6709082,
+      "name": "data-science-lab"
+    },
+    {
+      "id": 7975692,
+      "name": "DataKind-UK"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 9923682,
+      "name": "Data-Analytics-Innovation-Entrepreneurship"
+    },
+    {
+      "id": 10625522,
+      "name": "london-creative-coding"
+    },
+    {
+      "id": 11370192,
+      "name": "opendatascience"
+    },
+    {
+      "id": 11854362,
+      "name": "Women-Who-Code-London"
+    },
+    {
+      "id": 12103862,
+      "name": "Society-of-Data-Miners"
+    },
+    {
+      "id": 12713192,
+      "name": "Deep-Learning-London"
+    },
+    {
+      "id": 13320732,
+      "name": "PyLadiesLondon"
+    },
+    {
+      "id": 13854122,
+      "name": "London-Microservices-User-Group"
+    },
+    {
+      "id": 14061362,
+      "name": "Big-Data-Behavioral-Analytics-London"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 14353062,
+      "name": "London-Get-More-From-Data"
+    },
+    {
+      "id": 14574542,
+      "name": "London-Bayesian-network-Meetup-Group"
+    },
+    {
+      "id": 16462462,
+      "name": "London-New-Tech"
+    },
+    {
+      "id": 16936312,
+      "name": "Data-Natives-London"
+    },
+    {
+      "id": 17892732,
+      "name": "Apache-Lucene-Solr-London-User-Group"
+    },
+    {
+      "id": 18214876,
+      "name": "UK-Computer-Vision-Meetup"
+    },
+    {
+      "id": 18235566,
+      "name": "Hands-on-Big-data-science-workshop"
+    },
+    {
+      "id": 18267043,
+      "name": "Robotics-London"
+    },
+    {
+      "id": 18476818,
+      "name": "Web-Analytics-Wednesday-London"
+    },
+    {
+      "id": 18535628,
+      "name": "London-Cambridge-Spark"
+    },
+    {
+      "id": 18581527,
+      "name": "data-visual-London"
+    },
+    {
+      "id": 18592055,
+      "name": "Advanced-Spark-and-TensorFlow-Meetup-London"
+    },
+    {
+      "id": 18645674,
+      "name": "London-Cognitive-Computing-Meetup"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18657875,
+      "name": "Applied-Deep-Learning-Meetup"
+    },
+    {
+      "id": 18674626,
+      "name": "London-Data-Science-Journal-Club"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 18742048,
+      "name": "Data-Scientist"
+    },
+    {
+      "id": 18775469,
+      "name": "Business-Analytics-and-Data-Science"
+    },
+    {
+      "id": 18877407,
+      "name": "DataTech"
+    },
+    {
+      "id": 18898658,
+      "name": "Codecademy-London"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 19040861,
+      "name": "Apache-Kafka-London"
+    },
+    {
+      "id": 19040874,
+      "name": "Challenge-Big-Data-Hosted-by-Pentaho"
+    },
+    {
+      "id": 19040886,
+      "name": "Data-Data-Data"
+    },
+    {
+      "id": 19089624,
+      "name": "Data-Plus-Women"
+    },
+    {
+      "id": 19109169,
+      "name": "London-Applied-ML-AI-Meetup"
+    },
+    {
+      "id": 19213837,
+      "name": "OpenAI-London"
+    },
+    {
+      "id": 19474893,
+      "name": "rladies-london"
+    },
+    {
+      "id": 19507666,
+      "name": "London-Machine-Learning-Practice-Meetup"
+    },
+    {
+      "id": 19523460,
+      "name": "London-Big-Data-Analytics-Meet-up"
+    },
+    {
+      "id": 19548515,
+      "name": "London-Machine-Learning-Study-Group"
+    },
+    {
+      "id": 19569005,
+      "name": "Data-Science-for-Internet-of-Things-Meetup-London"
+    },
+    {
+      "id": 19625477,
+      "name": "Deep-Learning-Lab"
+    },
+    {
+      "id": 19679882,
+      "name": "Advance-in-your-career-Udacity-London-Meetup"
+    },
+    {
+      "id": 19735377,
+      "name": "AI-Month-UK"
+    },
+    {
+      "id": 19860912,
+      "name": "central_london_data_science"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 19881842,
+      "name": "London-Cloudera-User-Group"
+    },
+    {
+      "id": 19944387,
+      "name": "datasciencenetworklondon"
+    },
+    {
+      "id": 19998260,
+      "name": "London-Tech-Ladies"
+    },
+    {
+      "id": 20144539,
+      "name": "Hitherto"
+    },
+    {
+      "id": 20226373,
+      "name": "Bots-AI-Messaging-Meetup"
+    },
+    {
+      "id": 20229657,
+      "name": "CognitionX-Community"
+    },
+    {
+      "id": 20235464,
+      "name": "AndHack"
+    },
+    {
+      "id": 20270495,
+      "name": "Competitive-Intelligence-London"
+    },
+    {
+      "id": 20324272,
+      "name": "Data-Engineering-London"
+    },
+    {
+      "id": 20352196,
+      "name": "SheCanCodeLDN"
+    },
+    {
+      "id": 20361686,
+      "name": "Data-Science-Foundation-London"
+    },
+    {
+      "id": 20394472,
+      "name": "Dataiku-London-Meetup-Group"
+    },
+    {
+      "id": 20399681,
+      "name": "Data-Science-Minds-in-London"
+    },
+    {
+      "id": 20474223,
+      "name": "LONDONDATAVISION"
+    },
+    {
+      "id": 20488935,
+      "name": "Data-Science-to-Startup"
+    },
+    {
+      "id": 20552008,
+      "name": "Big-Data-Hadoop-Ingest-Transform-Apex-London-Online"
+    },
+    {
+      "id": 20923200,
+      "name": "Enterprise-Artificial-Intelligence-AI-Lab"
+    },
+    {
+      "id": 20926271,
+      "name": "CppLondon"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21291979,
+      "name": "Big-Data-and-Machine-Learning-London"
+    },
+    {
+      "id": 21646070,
+      "name": "Women-in-Technology-Digital-London"
+    },
+    {
+      "id": 21757329,
+      "name": "project_euler"
+    },
+    {
+      "id": 21800102,
+      "name": "Artificial-Intelligence-London"
+    },
+    {
+      "id": 22169559,
+      "name": "Inspiring-Women-in-Data-Science"
+    },
+    {
+      "id": 22312282,
+      "name": "London-Artificial-Intelligence-Deep-Learning"
+    },
+    {
+      "id": 22411826,
+      "name": "Open-Source-Cassandra"
+    },
+    {
+      "id": 22818653,
+      "name": "Women-in-Kaggle"
+    },
+    {
+      "id": 23140176,
+      "name": "Women-in-Engineering-Meetup-Facebook"
+    },
+    {
+      "id": 23199336,
+      "name": "AI-Machine-Learning-Enterprise-Applications"
+    },
+    {
+      "id": 23218147,
+      "name": "London-Probability-Theory-Meetup"
+    },
+    {
+      "id": 23268408,
+      "name": "Beating-Humans-in-Cognition"
+    },
+    {
+      "id": 23404465,
+      "name": "SEO-London-with-Data-Science-and-Machine-Learning"
+    },
+    {
+      "id": 23497350,
+      "name": "Women-in-their-30s-who-enjoy-books-with-their-wine"
+    },
+    {
+      "id": 23538308,
+      "name": "Inspiring-Women-in-Technology"
+    },
+    {
+      "id": 23779679,
+      "name": "London-Senior-Technology-Leaders-Meetup"
+    },
+    {
+      "id": 23802098,
+      "name": "News-UK-Technology-Events"
+    },
+    {
+      "id": 24010678,
+      "name": "London-Deep-Learning-Meetup"
+    },
+    {
+      "id": 24016941,
+      "name": "Guided-Meditation-Rest-and-Relaxation-for-Women"
+    },
+    {
+      "id": 24181557,
+      "name": "Data-Science-Technologies"
+    },
+    {
+      "id": 24198481,
+      "name": "Applied-Data-Engineering-London"
+    },
+    {
+      "id": 24318967,
+      "name": "London-Data-Science-AI-Meetup"
+    },
+    {
+      "id": 24444200,
+      "name": "Self-Confidence-and-Transformation-Through-Public-Speaking"
+    }
+  ],
+  "14163064": [
+    {
+      "id": 1350857,
+      "name": "skillsmatter"
+    },
+    {
+      "id": 1672102,
+      "name": "HNLondon"
+    },
+    {
+      "id": 1679039,
+      "name": "hoodlums"
+    },
+    {
+      "id": 1692643,
+      "name": "london-software-craftsmanship"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1804831,
+      "name": "London-Unity-Usergroup"
+    },
+    {
+      "id": 2467322,
+      "name": "hadoop-users-group-uk"
+    },
+    {
+      "id": 2652752,
+      "name": "London-Game-Developers"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 3213192,
+      "name": "wpuguk"
+    },
+    {
+      "id": 4089662,
+      "name": "learnsoftwaredevelopment"
+    },
+    {
+      "id": 4107902,
+      "name": "London-Android-for-Beginners"
+    },
+    {
+      "id": 4490912,
+      "name": "London-Indie-Game-Developers"
+    },
+    {
+      "id": 4499392,
+      "name": "mobiledev"
+    },
+    {
+      "id": 4514522,
+      "name": "Augmenting-Reality"
+    },
+    {
+      "id": 4967132,
+      "name": "coinscrum"
+    },
+    {
+      "id": 5955472,
+      "name": "London-HTML5-Game-Developers"
+    },
+    {
+      "id": 6443942,
+      "name": "HPC-GPU-Supercomputing-Group-of-London"
+    },
+    {
+      "id": 6787822,
+      "name": "London-Artificial-Intelligence-Futurists"
+    },
+    {
+      "id": 6984532,
+      "name": "ACCULondon"
+    },
+    {
+      "id": 7504312,
+      "name": "Go-London-User-Group"
+    },
+    {
+      "id": 8265202,
+      "name": "KhronosUK"
+    },
+    {
+      "id": 8611312,
+      "name": "London-Virtual-Reality-Developer-Meetup"
+    },
+    {
+      "id": 8672662,
+      "name": "londonlinux"
+    },
+    {
+      "id": 9426892,
+      "name": "London-VR-for-Games-Meetup"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 9581702,
+      "name": "General-Assembly-Meetup"
+    },
+    {
+      "id": 10071822,
+      "name": "WebGL-Workshop-London"
+    },
+    {
+      "id": 10625522,
+      "name": "london-creative-coding"
+    },
+    {
+      "id": 12060942,
+      "name": "ethereum"
+    },
+    {
+      "id": 12103862,
+      "name": "Society-of-Data-Miners"
+    },
+    {
+      "id": 12502162,
+      "name": "London-Substance-Texturing-Artists"
+    },
+    {
+      "id": 13958342,
+      "name": "Python-for-Quant-Finance-London"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 14194092,
+      "name": "Elixir-London"
+    },
+    {
+      "id": 14574542,
+      "name": "London-Bayesian-network-Meetup-Group"
+    },
+    {
+      "id": 14886462,
+      "name": "swiftlondon"
+    },
+    {
+      "id": 14925742,
+      "name": "SWIFT-Developers-London"
+    },
+    {
+      "id": 15313272,
+      "name": "Fullstack-js-London"
+    },
+    {
+      "id": 15749262,
+      "name": "Cpp-London-Developers"
+    },
+    {
+      "id": 16219262,
+      "name": "London-Dev-Community"
+    },
+    {
+      "id": 17012422,
+      "name": "innovate-london"
+    },
+    {
+      "id": 17936722,
+      "name": "GrowthEnabler"
+    },
+    {
+      "id": 17963262,
+      "name": "I-love-3D-London"
+    },
+    {
+      "id": 17980922,
+      "name": "JUCE-Meetup"
+    },
+    {
+      "id": 18211462,
+      "name": "crowdtouching"
+    },
+    {
+      "id": 18356664,
+      "name": "Digital"
+    },
+    {
+      "id": 18398623,
+      "name": "london-wearefintech"
+    },
+    {
+      "id": 18399955,
+      "name": "Cryptovest-FS-Bitcoin-Bootcamp-and-Investment-Club"
+    },
+    {
+      "id": 18405804,
+      "name": "VR-AR-MR-Immersive-London"
+    },
+    {
+      "id": 18496017,
+      "name": "London-ALM-And-DevOps-Meetup"
+    },
+    {
+      "id": 18527929,
+      "name": "London-Autodidacts-Programming"
+    },
+    {
+      "id": 18532256,
+      "name": "London-JavaScript-Community"
+    },
+    {
+      "id": 18535628,
+      "name": "London-Cambridge-Spark"
+    },
+    {
+      "id": 18545586,
+      "name": "vrlondon"
+    },
+    {
+      "id": 18556970,
+      "name": "N-O-M-A-N-London"
+    },
+    {
+      "id": 18562834,
+      "name": "3DSLondon"
+    },
+    {
+      "id": 18594784,
+      "name": "Waltham-Forest-Tech"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18674626,
+      "name": "London-Data-Science-Journal-Club"
+    },
+    {
+      "id": 18684318,
+      "name": "Intel-Developers-London"
+    },
+    {
+      "id": 18698652,
+      "name": "Agile-Data-London-Meetup"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 18724718,
+      "name": "Bitcoin-Blockchain-Leadership-Forum"
+    },
+    {
+      "id": 18862892,
+      "name": "london-virtual-reality"
+    },
+    {
+      "id": 18864999,
+      "name": "London-Data-Visualization"
+    },
+    {
+      "id": 18866760,
+      "name": "West-London-JavaScript-Meetup"
+    },
+    {
+      "id": 18877407,
+      "name": "DataTech"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 19115240,
+      "name": "London-Spark-Coding-Dojo"
+    },
+    {
+      "id": 19118427,
+      "name": "Kaleido-LDN"
+    },
+    {
+      "id": 19139557,
+      "name": "AWS-High-Performance-Computing-HPC-London-Meet-Up"
+    },
+    {
+      "id": 19301237,
+      "name": "London-Ethereum-Socials"
+    },
+    {
+      "id": 19451559,
+      "name": "Blockchain-the-Arts"
+    },
+    {
+      "id": 19537185,
+      "name": "City-of-London-Blockchain-Investors-Meetup-Group"
+    },
+    {
+      "id": 19548515,
+      "name": "London-Machine-Learning-Study-Group"
+    },
+    {
+      "id": 19549241,
+      "name": "SW-London-Haskell"
+    },
+    {
+      "id": 19607724,
+      "name": "London-Interactive-Music-Meetup"
+    },
+    {
+      "id": 19723945,
+      "name": "London-Bitcoin-Altcoin-traders"
+    },
+    {
+      "id": 19726545,
+      "name": "Hyperledger-London"
+    },
+    {
+      "id": 19795283,
+      "name": "Blockchain-and-Hyperledger-Project-London"
+    },
+    {
+      "id": 19797764,
+      "name": "Messaging-Bots-London"
+    },
+    {
+      "id": 19803353,
+      "name": "london-ethereum-codeup"
+    },
+    {
+      "id": 19807308,
+      "name": "amazonappdev"
+    },
+    {
+      "id": 19839585,
+      "name": "Connected-Data-London"
+    },
+    {
+      "id": 19860912,
+      "name": "central_london_data_science"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 20050912,
+      "name": "Enterprise-Blockchain"
+    },
+    {
+      "id": 20055740,
+      "name": "Blockchain-Startups-London"
+    },
+    {
+      "id": 20069448,
+      "name": "vr-film"
+    },
+    {
+      "id": 20106122,
+      "name": "Eurostaff-Connect-Stockholm"
+    },
+    {
+      "id": 20113171,
+      "name": "VR-cameras-VR-movies-VR-gadgets-for-Virtual-Reality-lovers"
+    },
+    {
+      "id": 20160923,
+      "name": "SnackandHack"
+    },
+    {
+      "id": 20208115,
+      "name": "Blockchain-SmartContract-Innovators"
+    },
+    {
+      "id": 20399973,
+      "name": "Creative-AI"
+    },
+    {
+      "id": 20580642,
+      "name": "Game-AI-Meetup-GAIM-of-London"
+    },
+    {
+      "id": 20581500,
+      "name": "London-Blockchain-Ethereum"
+    },
+    {
+      "id": 20609890,
+      "name": "Mixed-Reality-London"
+    },
+    {
+      "id": 20889808,
+      "name": "IoTblockchain"
+    },
+    {
+      "id": 20926271,
+      "name": "CppLondon"
+    },
+    {
+      "id": 21085182,
+      "name": "Panel-What-makes-Smart-Contracts-so-Smart"
+    },
+    {
+      "id": 21124117,
+      "name": "London-WebVR-Meetup"
+    },
+    {
+      "id": 21196227,
+      "name": "blockchain-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21589441,
+      "name": "London-Blockchain-Meetup"
+    },
+    {
+      "id": 21755048,
+      "name": "fintechbunker"
+    },
+    {
+      "id": 21757329,
+      "name": "project_euler"
+    },
+    {
+      "id": 21789212,
+      "name": "Byte-Academy-FinTech-Python-Blockchain-Education"
+    },
+    {
+      "id": 22258495,
+      "name": "BitFriendly"
+    },
+    {
+      "id": 22286164,
+      "name": "IoT-Hardware-Blockchain-Meetup"
+    },
+    {
+      "id": 22286385,
+      "name": "London-Artificial-Intelligence-Blockchain-Meetup"
+    },
+    {
+      "id": 22320062,
+      "name": "Blockchain-Workshop-for-Developers"
+    },
+    {
+      "id": 22392802,
+      "name": "Algorithmic-Art"
+    },
+    {
+      "id": 22463622,
+      "name": "cryptofocus"
+    },
+    {
+      "id": 22484733,
+      "name": "WebVR-Meetup-Group"
+    },
+    {
+      "id": 22725988,
+      "name": "digital-transformation-in-london"
+    },
+    {
+      "id": 22729747,
+      "name": "London-Blockchain-Freelancers"
+    },
+    {
+      "id": 22805163,
+      "name": "Melon-Meetup"
+    },
+    {
+      "id": 22950147,
+      "name": "Cryptocurrency-Influencer"
+    },
+    {
+      "id": 22952421,
+      "name": "XAURUM-blockchain"
+    },
+    {
+      "id": 23038840,
+      "name": "London-Elixir-coding-dojos"
+    },
+    {
+      "id": 23059322,
+      "name": "Onecoin-E-commerce-platform"
+    },
+    {
+      "id": 23208930,
+      "name": "Copy-Trading"
+    },
+    {
+      "id": 23256241,
+      "name": "meetup-group-rRcAwYaO"
+    },
+    {
+      "id": 23361586,
+      "name": "Ownage-io-Blockchain-Asset-Game-Design-Hackathon"
+    },
+    {
+      "id": 23455182,
+      "name": "The-Philosophical-Programmer"
+    },
+    {
+      "id": 23519652,
+      "name": "Coding-challenge-meetup"
+    },
+    {
+      "id": 23587720,
+      "name": "Artificial-Intelligence-and-the-gambling-tech-sector-meetup"
+    },
+    {
+      "id": 23717291,
+      "name": "London-CBC-construction-blockchain-consortium-Meetup"
+    },
+    {
+      "id": 24112684,
+      "name": "meetup-group-iTtPpPjk"
+    },
+    {
+      "id": 24547848,
+      "name": "ICO-Meetup-London"
+    },
+    {
+      "id": 24583444,
+      "name": "The-Blockhchain-and-the-gambling-tech-sector-meetup"
+    }
+  ],
+  "219192193": [
+    {
+      "id": 55367,
+      "name": "London-International"
+    },
+    {
+      "id": 374207,
+      "name": "Business-Networking-and-Growth"
+    },
+    {
+      "id": 1011472,
+      "name": "EntrepreneursInLondon"
+    },
+    {
+      "id": 1672102,
+      "name": "HNLondon"
+    },
+    {
+      "id": 1802056,
+      "name": "Secret-Dining-Supper-Clubs-in-London"
+    },
+    {
+      "id": 1804831,
+      "name": "London-Unity-Usergroup"
+    },
+    {
+      "id": 1817408,
+      "name": "The-London-Educational-Games-Meetup-Group"
+    },
+    {
+      "id": 2546322,
+      "name": "edmix-com"
+    },
+    {
+      "id": 2652752,
+      "name": "London-Game-Developers"
+    },
+    {
+      "id": 4118122,
+      "name": "MobileLearning"
+    },
+    {
+      "id": 4455882,
+      "name": "ln-enterprise-tech"
+    },
+    {
+      "id": 4490912,
+      "name": "London-Indie-Game-Developers"
+    },
+    {
+      "id": 4499392,
+      "name": "mobiledev"
+    },
+    {
+      "id": 4514522,
+      "name": "Augmenting-Reality"
+    },
+    {
+      "id": 4561972,
+      "name": "londonmotion"
+    },
+    {
+      "id": 6199682,
+      "name": "tech-collective"
+    },
+    {
+      "id": 7473612,
+      "name": "London-GameDev-Lunch"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 8382432,
+      "name": "expandingcircles"
+    },
+    {
+      "id": 8611312,
+      "name": "London-Virtual-Reality-Developer-Meetup"
+    },
+    {
+      "id": 9426892,
+      "name": "London-VR-for-Games-Meetup"
+    },
+    {
+      "id": 9581702,
+      "name": "General-Assembly-Meetup"
+    },
+    {
+      "id": 9680462,
+      "name": "London-Startup-Founder-101"
+    },
+    {
+      "id": 10747372,
+      "name": "Heads-Up-London-Wearable-Technology-Forum"
+    },
+    {
+      "id": 11726422,
+      "name": "igdalondon"
+    },
+    {
+      "id": 14489602,
+      "name": "Kemetic-Mystery-School-UK"
+    },
+    {
+      "id": 16200142,
+      "name": "London-Auto-stereoscopic-Glasses-Free-3D-Tech-Meetup"
+    },
+    {
+      "id": 17527352,
+      "name": "GOTO-Nights-London-UK"
+    },
+    {
+      "id": 18312787,
+      "name": "werinnovation"
+    },
+    {
+      "id": 18398623,
+      "name": "london-wearefintech"
+    },
+    {
+      "id": 18399138,
+      "name": "Over-30s-London-Social"
+    },
+    {
+      "id": 18405804,
+      "name": "VR-AR-MR-Immersive-London"
+    },
+    {
+      "id": 18427735,
+      "name": "FREE-Internet-Marketing-Business-Workshop"
+    },
+    {
+      "id": 18507752,
+      "name": "Spiritual-Vibes"
+    },
+    {
+      "id": 18538298,
+      "name": "The-London-Startup-Retreat"
+    },
+    {
+      "id": 18545586,
+      "name": "vrlondon"
+    },
+    {
+      "id": 18549700,
+      "name": "London-Startup-Saturdays"
+    },
+    {
+      "id": 18552912,
+      "name": "London-Supper-Clubs"
+    },
+    {
+      "id": 18555583,
+      "name": "The-playhubs-game-developer-meetup"
+    },
+    {
+      "id": 18580419,
+      "name": "Screens-Content-Augmented-and-Virtual-Reality-Meetup"
+    },
+    {
+      "id": 18862892,
+      "name": "london-virtual-reality"
+    },
+    {
+      "id": 18918791,
+      "name": "london-tech-startups"
+    },
+    {
+      "id": 18959752,
+      "name": "Find-Peace-London"
+    },
+    {
+      "id": 19043805,
+      "name": "Startup-Events-London"
+    },
+    {
+      "id": 19066196,
+      "name": "AND_Chat"
+    },
+    {
+      "id": 19083047,
+      "name": "Cocoon-Tech-Creative-Start-ups-Professionals-Meetup"
+    },
+    {
+      "id": 19118427,
+      "name": "Kaleido-LDN"
+    },
+    {
+      "id": 19200386,
+      "name": "Fintech-Business-Development"
+    },
+    {
+      "id": 19636980,
+      "name": "Virtual-Reality-Business"
+    },
+    {
+      "id": 19881697,
+      "name": "London-MMO-Developers"
+    },
+    {
+      "id": 19951228,
+      "name": "VR-AR-Association-London"
+    },
+    {
+      "id": 20012816,
+      "name": "London-Marketplace-Startups-Meetup"
+    },
+    {
+      "id": 20113171,
+      "name": "VR-cameras-VR-movies-VR-gadgets-for-Virtual-Reality-lovers"
+    },
+    {
+      "id": 20175967,
+      "name": "London-Startup-Founders"
+    },
+    {
+      "id": 20245210,
+      "name": "Convergence-where-tech-meets"
+    },
+    {
+      "id": 20334705,
+      "name": "Rise-London-FinTech"
+    },
+    {
+      "id": 20399973,
+      "name": "Creative-AI"
+    },
+    {
+      "id": 20484379,
+      "name": "London-AR-AI-Meetup"
+    },
+    {
+      "id": 20580642,
+      "name": "Game-AI-Meetup-GAIM-of-London"
+    },
+    {
+      "id": 20581437,
+      "name": "Investors-in-VR"
+    },
+    {
+      "id": 20609890,
+      "name": "Mixed-Reality-London"
+    },
+    {
+      "id": 20609911,
+      "name": "VIRTUAL-NEEDS-REALITY"
+    },
+    {
+      "id": 20675755,
+      "name": "AFlondon"
+    },
+    {
+      "id": 20756164,
+      "name": "VR-AR-London-MeetUp-Group"
+    },
+    {
+      "id": 20904506,
+      "name": "London-School-of-Entrepreneurs"
+    },
+    {
+      "id": 21075569,
+      "name": "Mariannas-Events-London-Nightlife-Social-20s-30s-40s"
+    },
+    {
+      "id": 21124117,
+      "name": "London-WebVR-Meetup"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21307604,
+      "name": "speakyourtruth"
+    },
+    {
+      "id": 21508614,
+      "name": "Virtual-Augmented-Mixed-Reality-London"
+    },
+    {
+      "id": 21562757,
+      "name": "Secret-Foodies-London"
+    },
+    {
+      "id": 21785997,
+      "name": "Excel-Champions"
+    }
+  ],
+  "143212952": [
+    {
+      "id": 3554552,
+      "name": "UK-Hackathons-and-Jams"
+    },
+    {
+      "id": 3930852,
+      "name": "Find-A-tech-Job-In-London"
+    },
+    {
+      "id": 13227122,
+      "name": "Google-Cloud-Platform-App-Engine-Compute-Engine-BigQuery"
+    },
+    {
+      "id": 15313272,
+      "name": "Fullstack-js-London"
+    },
+    {
+      "id": 16022942,
+      "name": "JustSharing"
+    },
+    {
+      "id": 17546062,
+      "name": "Angular-London-BYOP"
+    },
+    {
+      "id": 18523382,
+      "name": "Black-Entrepreneurs-changing-the-game-in-London"
+    },
+    {
+      "id": 18532075,
+      "name": "London-Adults-with-mild-Autism-Spectrum-Disorder"
+    },
+    {
+      "id": 18532138,
+      "name": "People-teaching-kids-to-code-in-London"
+    },
+    {
+      "id": 18532256,
+      "name": "London-JavaScript-Community"
+    },
+    {
+      "id": 18645674,
+      "name": "London-Cognitive-Computing-Meetup"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 19438957,
+      "name": "London-CSS-Meetup"
+    },
+    {
+      "id": 19499493,
+      "name": "Makers-Academy-Alumni"
+    },
+    {
+      "id": 19501816,
+      "name": "JavaScript-London"
+    },
+    {
+      "id": 19590668,
+      "name": "Serverless-London"
+    },
+    {
+      "id": 19714856,
+      "name": "API-Strategy-Tactics-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 23310699,
+      "name": "Black-Start-up-Meet-up"
+    }
+  ],
+  "198883221": [
+    {
+      "id": 1161763,
+      "name": "LondonEntrepreneursNetwork"
+    },
+    {
+      "id": 1813951,
+      "name": "Interplanetary"
+    },
+    {
+      "id": 1866611,
+      "name": "debatesinlondon"
+    },
+    {
+      "id": 2590642,
+      "name": "iotlondon"
+    },
+    {
+      "id": 2704992,
+      "name": "Creative-Digital-Fabricators"
+    },
+    {
+      "id": 7473612,
+      "name": "London-GameDev-Lunch"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 9680462,
+      "name": "London-Startup-Founder-101"
+    },
+    {
+      "id": 12983892,
+      "name": "technopreneurs"
+    },
+    {
+      "id": 16323952,
+      "name": "Artists-and-Scientists-Get-Together"
+    },
+    {
+      "id": 18198734,
+      "name": "Start-ups-pitch-and-New-Connections"
+    },
+    {
+      "id": 18660042,
+      "name": "Neurons-AI-UK-London"
+    },
+    {
+      "id": 18725178,
+      "name": "London-Startup-Pitching-Networking"
+    },
+    {
+      "id": 19047456,
+      "name": "Interracial-mix-and-mingle"
+    },
+    {
+      "id": 19317857,
+      "name": "London-Startup-Idea-to-IPO"
+    },
+    {
+      "id": 19452846,
+      "name": "Young-Singles-Socials-Getaways-and-Speed-Dates"
+    },
+    {
+      "id": 19641415,
+      "name": "fintechmaximisers"
+    },
+    {
+      "id": 19647424,
+      "name": "Disruptive-Startups-Entrepreneurs"
+    },
+    {
+      "id": 19738019,
+      "name": "c0d1ng"
+    },
+    {
+      "id": 20226373,
+      "name": "Bots-AI-Messaging-Meetup"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21599342,
+      "name": "START-UP-LOVERS"
+    }
+  ],
+  "218155947": [
+    {
+      "id": 374207,
+      "name": "Business-Networking-and-Growth"
+    },
+    {
+      "id": 1011472,
+      "name": "EntrepreneursInLondon"
+    },
+    {
+      "id": 1506114,
+      "name": "LondonToastmasters"
+    },
+    {
+      "id": 2130731,
+      "name": "International-Entrepreneurs-Investors"
+    },
+    {
+      "id": 6439632,
+      "name": "BusinessesNetwork"
+    },
+    {
+      "id": 10917842,
+      "name": "Mindbodytalks"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "11204583": [],
+  "49660122": [
+    {
+      "id": 841735,
+      "name": "Londonjavacommunity"
+    },
+    {
+      "id": 3554552,
+      "name": "UK-Hackathons-and-Jams"
+    },
+    {
+      "id": 4520752,
+      "name": "Start-up-Business-Angels-Entrepreneurs-groups"
+    },
+    {
+      "id": 5958022,
+      "name": "Hipsters-Hackers-Hustlers"
+    },
+    {
+      "id": 13854122,
+      "name": "London-Microservices-User-Group"
+    },
+    {
+      "id": 18604477,
+      "name": "SEO-London-Networking-Internet-Marketing"
+    },
+    {
+      "id": 18725178,
+      "name": "London-Startup-Pitching-Networking"
+    },
+    {
+      "id": 18849591,
+      "name": "London-Quant-Club"
+    },
+    {
+      "id": 19990134,
+      "name": "london-nodejs"
+    },
+    {
+      "id": 20428542,
+      "name": "Digital-Business-Forum"
+    },
+    {
+      "id": 20986099,
+      "name": "NodeJS-Developers-in-Startups"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21830238,
+      "name": "GDPR-Solutions"
+    },
+    {
+      "id": 21977743,
+      "name": "London-Beginner-Guitar-Lessons"
+    },
+    {
+      "id": 22060185,
+      "name": "The-DevSecOps-Think-Tank"
+    },
+    {
+      "id": 22109509,
+      "name": "Learn-How-To-Make-Money-Online-Internet-Business-London"
+    },
+    {
+      "id": 22148317,
+      "name": "Grosvenor-Networking"
+    },
+    {
+      "id": 22226816,
+      "name": "AI-Disrupting-Sustainability-conference-in-Cambridge"
+    },
+    {
+      "id": 22387232,
+      "name": "LogiAnalytics-User-Group"
+    },
+    {
+      "id": 22496378,
+      "name": "The-JS-Roundabout"
+    },
+    {
+      "id": 22868515,
+      "name": "Investment-Briefing-for-companies-seeking-equity-investment"
+    },
+    {
+      "id": 22880602,
+      "name": "Polyglot-Full-Stack-Developers"
+    }
+  ],
+  "198376955": [
+    {
+      "id": 1670392,
+      "name": "Mix-Friends-Club"
+    },
+    {
+      "id": 1820201,
+      "name": "footballinreading"
+    },
+    {
+      "id": 14486872,
+      "name": "DataScienceThamesValley"
+    },
+    {
+      "id": 17867722,
+      "name": "Woking-Guildford-40s-Singles"
+    },
+    {
+      "id": 18339064,
+      "name": "Oxford-African-Diaspora-Expat-Repat-Meetup"
+    },
+    {
+      "id": 18404940,
+      "name": "GDG-Reading-Thames-Valley"
+    },
+    {
+      "id": 18769163,
+      "name": "Reading-Football"
+    },
+    {
+      "id": 18842506,
+      "name": "Young-professionals-Reading"
+    },
+    {
+      "id": 20136111,
+      "name": "learn-to-code-berkshire"
+    },
+    {
+      "id": 20143871,
+      "name": "London-Data-Visualisation-Group"
+    },
+    {
+      "id": 20310450,
+      "name": "Hack-Brexit"
+    },
+    {
+      "id": 20488935,
+      "name": "Data-Science-to-Startup"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22256046,
+      "name": "YENA-Reading"
+    },
+    {
+      "id": 22322908,
+      "name": "Smart-Textile-and-Robotics-Meetup"
+    }
+  ],
+  "201928561": [],
+  "157908102": [
+    {
+      "id": 284815,
+      "name": "moviemeetup"
+    },
+    {
+      "id": 295185,
+      "name": "londonphilosophers"
+    },
+    {
+      "id": 820982,
+      "name": "android"
+    },
+    {
+      "id": 841735,
+      "name": "Londonjavacommunity"
+    },
+    {
+      "id": 1045504,
+      "name": "mandarinlearners"
+    },
+    {
+      "id": 1365477,
+      "name": "Black-Londoners"
+    },
+    {
+      "id": 1423374,
+      "name": "gluglondon"
+    },
+    {
+      "id": 1464014,
+      "name": "London-Futurists"
+    },
+    {
+      "id": 1509107,
+      "name": "web-folk-of-south-london"
+    },
+    {
+      "id": 1546389,
+      "name": "londonmandarinlearners"
+    },
+    {
+      "id": 1575360,
+      "name": "existentialists"
+    },
+    {
+      "id": 1606498,
+      "name": "AsianMovies"
+    },
+    {
+      "id": 1640936,
+      "name": "halfstack"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1748530,
+      "name": "london-silicon-roundabout"
+    },
+    {
+      "id": 1789394,
+      "name": "big-data-london"
+    },
+    {
+      "id": 1798667,
+      "name": "Developers-Entrepreneurs"
+    },
+    {
+      "id": 1830801,
+      "name": "The-London-Django-Meetup-Group"
+    },
+    {
+      "id": 1954021,
+      "name": "graphdb-london"
+    },
+    {
+      "id": 1988251,
+      "name": "businessinlondon"
+    },
+    {
+      "id": 2019081,
+      "name": "London-PostgreSQL-Meetup-Group"
+    },
+    {
+      "id": 2097611,
+      "name": "Startups-Investors-London"
+    },
+    {
+      "id": 2175801,
+      "name": "swl-stargazers"
+    },
+    {
+      "id": 2236821,
+      "name": "Ladies-of-Code-UK"
+    },
+    {
+      "id": 2545252,
+      "name": "London-Code-Dojo"
+    },
+    {
+      "id": 2546322,
+      "name": "edmix-com"
+    },
+    {
+      "id": 2590642,
+      "name": "iotlondon"
+    },
+    {
+      "id": 2621782,
+      "name": "CodeCollective"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3063252,
+      "name": "legalworkshopslondon"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 3289842,
+      "name": "IMTLondon"
+    },
+    {
+      "id": 3478142,
+      "name": "BigDataIWMT"
+    },
+    {
+      "id": 3516262,
+      "name": "Bikers-Delight-Fun-cycle-tours"
+    },
+    {
+      "id": 3554552,
+      "name": "UK-Hackathons-and-Jams"
+    },
+    {
+      "id": 4089662,
+      "name": "learnsoftwaredevelopment"
+    },
+    {
+      "id": 4382392,
+      "name": "Chinese-Painting-and-Calligraphy-Group-in-Central-London"
+    },
+    {
+      "id": 4514522,
+      "name": "Augmenting-Reality"
+    },
+    {
+      "id": 4557542,
+      "name": "Angular-London"
+    },
+    {
+      "id": 4558132,
+      "name": "HTML5-CodeShow"
+    },
+    {
+      "id": 4636902,
+      "name": "Restarters-London"
+    },
+    {
+      "id": 5425382,
+      "name": "devmeetdesign"
+    },
+    {
+      "id": 5509292,
+      "name": "BuenaVistaStartupClub"
+    },
+    {
+      "id": 5958022,
+      "name": "Hipsters-Hackers-Hustlers"
+    },
+    {
+      "id": 6151892,
+      "name": "LondonArduino"
+    },
+    {
+      "id": 6166792,
+      "name": "Women-in-Data"
+    },
+    {
+      "id": 6199682,
+      "name": "tech-collective"
+    },
+    {
+      "id": 6315162,
+      "name": "Predictive-Analytics-London-Meetup"
+    },
+    {
+      "id": 6410072,
+      "name": "3D-Printing-London"
+    },
+    {
+      "id": 6662802,
+      "name": "London-Weekly-Python-and-Django-Coding-Session"
+    },
+    {
+      "id": 6709082,
+      "name": "data-science-lab"
+    },
+    {
+      "id": 6984532,
+      "name": "ACCULondon"
+    },
+    {
+      "id": 6984632,
+      "name": "YoungLondoners"
+    },
+    {
+      "id": 7157792,
+      "name": "Mandarin-Quarter"
+    },
+    {
+      "id": 7269412,
+      "name": "naturalB"
+    },
+    {
+      "id": 7470912,
+      "name": "js-monthly"
+    },
+    {
+      "id": 7551312,
+      "name": "HealthTechnologyForum-London"
+    },
+    {
+      "id": 7975692,
+      "name": "DataKind-UK"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 8812192,
+      "name": "Weekend-Mandarin"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 9781962,
+      "name": "london-compsec"
+    },
+    {
+      "id": 9923682,
+      "name": "Data-Analytics-Innovation-Entrepreneurship"
+    },
+    {
+      "id": 10023132,
+      "name": "F-Film-French"
+    },
+    {
+      "id": 10104672,
+      "name": "Black-Singles-in-London"
+    },
+    {
+      "id": 10183052,
+      "name": "Nerd-Nite-London-learn-interesting-stuff-while-drinking"
+    },
+    {
+      "id": 10288002,
+      "name": "virtualJUG"
+    },
+    {
+      "id": 10334072,
+      "name": "Hardware-Pioneers-London-Hardware-Startups"
+    },
+    {
+      "id": 10337842,
+      "name": "Graduate-Data-Science-Initiative"
+    },
+    {
+      "id": 10534252,
+      "name": "Front-Endgineers-London"
+    },
+    {
+      "id": 10625522,
+      "name": "london-creative-coding"
+    },
+    {
+      "id": 10711642,
+      "name": "UX-Sketch-Out"
+    },
+    {
+      "id": 11854362,
+      "name": "Women-Who-Code-London"
+    },
+    {
+      "id": 11972762,
+      "name": "Med-Tech-Campus"
+    },
+    {
+      "id": 11975522,
+      "name": "SHORTS-ON-TAP"
+    },
+    {
+      "id": 12103862,
+      "name": "Society-of-Data-Miners"
+    },
+    {
+      "id": 12310442,
+      "name": "London-d3js"
+    },
+    {
+      "id": 12391432,
+      "name": "Wearables-London"
+    },
+    {
+      "id": 12713192,
+      "name": "Deep-Learning-London"
+    },
+    {
+      "id": 12942662,
+      "name": "GraphQL-London"
+    },
+    {
+      "id": 12952892,
+      "name": "NW-London-Hackers-and-Makers"
+    },
+    {
+      "id": 13129732,
+      "name": "funandunusualeventsinlondon"
+    },
+    {
+      "id": 13270402,
+      "name": "London-Korean-Drama-Club"
+    },
+    {
+      "id": 13320732,
+      "name": "PyLadiesLondon"
+    },
+    {
+      "id": 14044232,
+      "name": "Beijing-3D-Modeling-Cloud-Development-Technology-Meetup"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 14574542,
+      "name": "London-Bayesian-network-Meetup-Group"
+    },
+    {
+      "id": 14886462,
+      "name": "swiftlondon"
+    },
+    {
+      "id": 15308632,
+      "name": "efjsday"
+    },
+    {
+      "id": 15313272,
+      "name": "Fullstack-js-London"
+    },
+    {
+      "id": 15841882,
+      "name": "Geek-Girls-Carrots-UK"
+    },
+    {
+      "id": 15981952,
+      "name": "TechCityCoffee"
+    },
+    {
+      "id": 16323952,
+      "name": "Artists-and-Scientists-Get-Together"
+    },
+    {
+      "id": 16578332,
+      "name": "ExoticTravel"
+    },
+    {
+      "id": 16598112,
+      "name": "Korea-Meetup"
+    },
+    {
+      "id": 16637082,
+      "name": "Black-Entrepreneurs-Network"
+    },
+    {
+      "id": 17012422,
+      "name": "innovate-london"
+    },
+    {
+      "id": 17124182,
+      "name": "Rails-Girls-London"
+    },
+    {
+      "id": 17250172,
+      "name": "London-Healthcare-and-Medical-technology-innovators"
+    },
+    {
+      "id": 17336582,
+      "name": "The-Prometheus-Trust"
+    },
+    {
+      "id": 17383942,
+      "name": "London-Medical-Technology-Entrepreneurs"
+    },
+    {
+      "id": 17546062,
+      "name": "Angular-London-BYOP"
+    },
+    {
+      "id": 17681682,
+      "name": "fablablondon"
+    },
+    {
+      "id": 17761582,
+      "name": "Non-Multiplex-Cinemagoers-Group"
+    },
+    {
+      "id": 18138962,
+      "name": "LondonCyberTech"
+    },
+    {
+      "id": 18245435,
+      "name": "founderscoders"
+    },
+    {
+      "id": 18252144,
+      "name": "NEUROSCIENCE-LONDON"
+    },
+    {
+      "id": 18302952,
+      "name": "Brixton-Chinese-reading-writing-group"
+    },
+    {
+      "id": 18313232,
+      "name": "Kubernetes-London"
+    },
+    {
+      "id": 18326019,
+      "name": "brixtonbc"
+    },
+    {
+      "id": 18356664,
+      "name": "Digital"
+    },
+    {
+      "id": 18363136,
+      "name": "South-London-Tech-Meetups"
+    },
+    {
+      "id": 18436868,
+      "name": "OneHealthTechUK"
+    },
+    {
+      "id": 18452708,
+      "name": "Canary-Wharf-Chinese-Language-Exchange"
+    },
+    {
+      "id": 18452801,
+      "name": "From-Medicine-London"
+    },
+    {
+      "id": 18493278,
+      "name": "Internet-of-Everything-London"
+    },
+    {
+      "id": 18509845,
+      "name": "Mobile-Health-Meetup"
+    },
+    {
+      "id": 18523382,
+      "name": "Black-Entrepreneurs-changing-the-game-in-London"
+    },
+    {
+      "id": 18527929,
+      "name": "London-Autodidacts-Programming"
+    },
+    {
+      "id": 18532256,
+      "name": "London-JavaScript-Community"
+    },
+    {
+      "id": 18535628,
+      "name": "London-Cambridge-Spark"
+    },
+    {
+      "id": 18554247,
+      "name": "International-Food-Lovers-and-Social"
+    },
+    {
+      "id": 18580419,
+      "name": "Screens-Content-Augmented-and-Virtual-Reality-Meetup"
+    },
+    {
+      "id": 18581527,
+      "name": "data-visual-London"
+    },
+    {
+      "id": 18589612,
+      "name": "Tech-Tuesday-London"
+    },
+    {
+      "id": 18592055,
+      "name": "Advanced-Spark-and-TensorFlow-Meetup-London"
+    },
+    {
+      "id": 18632035,
+      "name": "AngularLabs"
+    },
+    {
+      "id": 18638427,
+      "name": "IT-Professional-Courses-Java-world"
+    },
+    {
+      "id": 18643230,
+      "name": "BFI-Shop-Video-Club"
+    },
+    {
+      "id": 18645674,
+      "name": "London-Cognitive-Computing-Meetup"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18657450,
+      "name": "Fun-and-Unusual-Wellbeing-Events"
+    },
+    {
+      "id": 18679793,
+      "name": "From-PhD-to-Startup-Meetup-London"
+    },
+    {
+      "id": 18706484,
+      "name": "Mandarin-x-Englsih-Lannguage-Exchange"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 18775469,
+      "name": "Business-Analytics-and-Data-Science"
+    },
+    {
+      "id": 18776320,
+      "name": "LondonAppBrewery"
+    },
+    {
+      "id": 18791166,
+      "name": "Digital-Inclusion-Network"
+    },
+    {
+      "id": 18825888,
+      "name": "UK-USA-Black-Connection"
+    },
+    {
+      "id": 18851797,
+      "name": "data-science-clinic-london"
+    },
+    {
+      "id": 18877407,
+      "name": "DataTech"
+    },
+    {
+      "id": 18898658,
+      "name": "Codecademy-London"
+    },
+    {
+      "id": 18902692,
+      "name": "Bioinformatics-London"
+    },
+    {
+      "id": 18934063,
+      "name": "Digihealthiest"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 18956427,
+      "name": "Biotech-Innovation-Club"
+    },
+    {
+      "id": 18979039,
+      "name": "South-England-Natural-Language-Processing-Meetup"
+    },
+    {
+      "id": 18979708,
+      "name": "London-Cyber-Security-Meetup"
+    },
+    {
+      "id": 19040500,
+      "name": "NodeWorkshops"
+    },
+    {
+      "id": 19076109,
+      "name": "Student-Robotics-in-London"
+    },
+    {
+      "id": 19086747,
+      "name": "London-Python-Project-Nights"
+    },
+    {
+      "id": 19089624,
+      "name": "Data-Plus-Women"
+    },
+    {
+      "id": 19103104,
+      "name": "London-Algorithms"
+    },
+    {
+      "id": 19109169,
+      "name": "London-Applied-ML-AI-Meetup"
+    },
+    {
+      "id": 19121859,
+      "name": "TensorFlow-London"
+    },
+    {
+      "id": 19121986,
+      "name": "LondonOpen-code"
+    },
+    {
+      "id": 19130635,
+      "name": "datafoundry"
+    },
+    {
+      "id": 19190592,
+      "name": "BioChanges"
+    },
+    {
+      "id": 19201419,
+      "name": "medtechlondon"
+    },
+    {
+      "id": 19213837,
+      "name": "OpenAI-London"
+    },
+    {
+      "id": 19294529,
+      "name": "Coed-Code"
+    },
+    {
+      "id": 19303654,
+      "name": "London-Algorithmic-Trading"
+    },
+    {
+      "id": 19331544,
+      "name": "gdgcloud"
+    },
+    {
+      "id": 19339436,
+      "name": "London-Engineers-Artists-Meetup"
+    },
+    {
+      "id": 19349082,
+      "name": "Node-js-Meetup-London"
+    },
+    {
+      "id": 19474893,
+      "name": "rladies-london"
+    },
+    {
+      "id": 19501816,
+      "name": "JavaScript-London"
+    },
+    {
+      "id": 19507175,
+      "name": "London-Containing-Bioinformatics-Data-Analytics-Meetup"
+    },
+    {
+      "id": 19507666,
+      "name": "London-Machine-Learning-Practice-Meetup"
+    },
+    {
+      "id": 19548515,
+      "name": "London-Machine-Learning-Study-Group"
+    },
+    {
+      "id": 19569005,
+      "name": "Data-Science-for-Internet-of-Things-Meetup-London"
+    },
+    {
+      "id": 19628323,
+      "name": "Coding-Hour-London-After-work-drinks-for-developers"
+    },
+    {
+      "id": 19679882,
+      "name": "Advance-in-your-career-Udacity-London-Meetup"
+    },
+    {
+      "id": 19721176,
+      "name": "Le-Wagon-London-Coding-School"
+    },
+    {
+      "id": 19723478,
+      "name": "ModernAfro"
+    },
+    {
+      "id": 19735377,
+      "name": "AI-Month-UK"
+    },
+    {
+      "id": 19738019,
+      "name": "c0d1ng"
+    },
+    {
+      "id": 19743964,
+      "name": "London-Conscious-Design-Engineering-Meetup"
+    },
+    {
+      "id": 19764361,
+      "name": "Women-in-Technology-Network"
+    },
+    {
+      "id": 19768279,
+      "name": "Artificial-Intelligence-Meetup-London"
+    },
+    {
+      "id": 19773382,
+      "name": "JavaScript-for-Beginners"
+    },
+    {
+      "id": 19790232,
+      "name": "Bicycle-day-trips-near-London"
+    },
+    {
+      "id": 19807054,
+      "name": "UX-Playground-The-User-Experience-Meetup-for-Londoners"
+    },
+    {
+      "id": 19827556,
+      "name": "London-Aerial-Relaxation-Pods"
+    },
+    {
+      "id": 19839585,
+      "name": "Connected-Data-London"
+    },
+    {
+      "id": 19849583,
+      "name": "Linuxing-In-London"
+    },
+    {
+      "id": 19860912,
+      "name": "central_london_data_science"
+    },
+    {
+      "id": 19880786,
+      "name": "Healthcare-Businesswomens-Association-UK-chapter"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 19895990,
+      "name": "London-Javascript"
+    },
+    {
+      "id": 19911171,
+      "name": "humanisingtech"
+    },
+    {
+      "id": 19926351,
+      "name": "unfolduk"
+    },
+    {
+      "id": 19986274,
+      "name": "DataViz-London"
+    },
+    {
+      "id": 19998954,
+      "name": "synbio-london"
+    },
+    {
+      "id": 20000968,
+      "name": "AngularZone"
+    },
+    {
+      "id": 20039829,
+      "name": "Expedia-London"
+    },
+    {
+      "id": 20047212,
+      "name": "Code-for-Humans"
+    },
+    {
+      "id": 20050912,
+      "name": "Enterprise-Blockchain"
+    },
+    {
+      "id": 20148212,
+      "name": "African-History-Media-Watch"
+    },
+    {
+      "id": 20226373,
+      "name": "Bots-AI-Messaging-Meetup"
+    },
+    {
+      "id": 20227071,
+      "name": "Women-in-Java"
+    },
+    {
+      "id": 20229657,
+      "name": "CognitionX-Community"
+    },
+    {
+      "id": 20270653,
+      "name": "DataScientists"
+    },
+    {
+      "id": 20275397,
+      "name": "Science-has-no-Borders"
+    },
+    {
+      "id": 20345549,
+      "name": "datasciencespeakers"
+    },
+    {
+      "id": 20345956,
+      "name": "Open-Innovation-Society"
+    },
+    {
+      "id": 20394472,
+      "name": "Dataiku-London-Meetup-Group"
+    },
+    {
+      "id": 21003932,
+      "name": "The-Healthcare-Startup-Society"
+    },
+    {
+      "id": 21196227,
+      "name": "blockchain-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21702502,
+      "name": "London-Quantum-Computing-Meetup"
+    },
+    {
+      "id": 21757329,
+      "name": "project_euler"
+    },
+    {
+      "id": 21967336,
+      "name": "Secret-London-Talks"
+    },
+    {
+      "id": 22109371,
+      "name": "Science-Entrepreneur-Club"
+    },
+    {
+      "id": 22169559,
+      "name": "Inspiring-Women-in-Data-Science"
+    },
+    {
+      "id": 22818653,
+      "name": "Women-in-Kaggle"
+    }
+  ],
+  "212209875": [
+    {
+      "id": 18198734,
+      "name": "Start-ups-pitch-and-New-Connections"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21574355,
+      "name": "Raw-Green-Superfood-Living"
+    }
+  ],
+  "10999570": [
+    {
+      "id": 820982,
+      "name": "android"
+    },
+    {
+      "id": 1161763,
+      "name": "LondonEntrepreneursNetwork"
+    },
+    {
+      "id": 1309416,
+      "name": "drinksandlinks"
+    },
+    {
+      "id": 1435784,
+      "name": "thalesians"
+    },
+    {
+      "id": 1675332,
+      "name": "Mobile-payments"
+    },
+    {
+      "id": 1748530,
+      "name": "london-silicon-roundabout"
+    },
+    {
+      "id": 1761047,
+      "name": "SiliconRoundabout"
+    },
+    {
+      "id": 1794687,
+      "name": "Startup-Pitch-Night-London"
+    },
+    {
+      "id": 1798667,
+      "name": "Developers-Entrepreneurs"
+    },
+    {
+      "id": 3554552,
+      "name": "UK-Hackathons-and-Jams"
+    },
+    {
+      "id": 4201042,
+      "name": "London-Investors-Entrepreneurs"
+    },
+    {
+      "id": 4520752,
+      "name": "Start-up-Business-Angels-Entrepreneurs-groups"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 12060942,
+      "name": "ethereum"
+    },
+    {
+      "id": 12983892,
+      "name": "technopreneurs"
+    },
+    {
+      "id": 16462462,
+      "name": "London-New-Tech"
+    },
+    {
+      "id": 17412612,
+      "name": "AfricaTechLondon"
+    },
+    {
+      "id": 18244666,
+      "name": "London-Venture-Capital-Angel-meetup"
+    },
+    {
+      "id": 18445427,
+      "name": "Startup-Entrepreneurs-Angels-and-Mentors"
+    },
+    {
+      "id": 19125312,
+      "name": "Crowdfunding-Accelerators-Investment-London"
+    },
+    {
+      "id": 19219687,
+      "name": "Banking-and-Fintech-APIs-Meetup"
+    },
+    {
+      "id": 21196227,
+      "name": "blockchain-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21693637,
+      "name": "DEVUX-mashup"
+    }
+  ],
+  "196055181": [
+    {
+      "id": 1418767,
+      "name": "The-London-English-Portuguese-Language-Exchange-Meetup-Group"
+    },
+    {
+      "id": 8215132,
+      "name": "YFood-Tech-Wednesdays"
+    },
+    {
+      "id": 13500342,
+      "name": "African-Business-Entrepreneur-Networking"
+    },
+    {
+      "id": 17412612,
+      "name": "AfricaTechLondon"
+    },
+    {
+      "id": 17833522,
+      "name": "BOND-T4D"
+    },
+    {
+      "id": 18281928,
+      "name": "Dragonfly-Mandarin"
+    },
+    {
+      "id": 18469305,
+      "name": "SustainableDevelopmentCommunity"
+    },
+    {
+      "id": 18594487,
+      "name": "The-London-Brazilian-Portuguese-Meetup-Group"
+    },
+    {
+      "id": 19752824,
+      "name": "RapidMiner-Users-Community-Paris"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21264012,
+      "name": "Agriculture-Technology-and-Development-in-Africa"
+    },
+    {
+      "id": 22908139,
+      "name": "Brazilian-Portuguese-Conversation-Intermediate-to-Advanced"
+    }
+  ],
+  "212394662": [
+    {
+      "id": 1011472,
+      "name": "EntrepreneursInLondon"
+    },
+    {
+      "id": 2328291,
+      "name": "cofoundersnetwork"
+    },
+    {
+      "id": 20488935,
+      "name": "Data-Science-to-Startup"
+    },
+    {
+      "id": 21085535,
+      "name": "RWPT-360-Property-Business-Workshop"
+    },
+    {
+      "id": 21253758,
+      "name": "meetup-group-TFgNDpBD"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "71205562": [
+    {
+      "id": 886872,
+      "name": "London-Monthly-Bulldog"
+    },
+    {
+      "id": 1562942,
+      "name": "london-scala"
+    },
+    {
+      "id": 1594526,
+      "name": "LondonR"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1761047,
+      "name": "SiliconRoundabout"
+    },
+    {
+      "id": 1954021,
+      "name": "graphdb-london"
+    },
+    {
+      "id": 2467322,
+      "name": "hadoop-users-group-uk"
+    },
+    {
+      "id": 2886012,
+      "name": "American-Sports-Club-London"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 3752422,
+      "name": "Financial-Engineers-Quants-London"
+    },
+    {
+      "id": 4273772,
+      "name": "socialdata"
+    },
+    {
+      "id": 4474342,
+      "name": "London-Systematic-Traders"
+    },
+    {
+      "id": 4884802,
+      "name": "raspberryjam"
+    },
+    {
+      "id": 5857932,
+      "name": "big-o-london"
+    },
+    {
+      "id": 5859592,
+      "name": "Big-Data-Jobs-in-London"
+    },
+    {
+      "id": 6166792,
+      "name": "Women-in-Data"
+    },
+    {
+      "id": 6315162,
+      "name": "Predictive-Analytics-London-Meetup"
+    },
+    {
+      "id": 6709082,
+      "name": "data-science-lab"
+    },
+    {
+      "id": 6787822,
+      "name": "London-Artificial-Intelligence-Futurists"
+    },
+    {
+      "id": 7975692,
+      "name": "DataKind-UK"
+    },
+    {
+      "id": 8931222,
+      "name": "AnalyticsNetwork"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 10337842,
+      "name": "Graduate-Data-Science-Initiative"
+    },
+    {
+      "id": 13722842,
+      "name": "Spark-London"
+    },
+    {
+      "id": 13958342,
+      "name": "Python-for-Quant-Finance-London"
+    },
+    {
+      "id": 14061362,
+      "name": "Big-Data-Behavioral-Analytics-London"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 14991272,
+      "name": "mapping-open-data-to-unlock-new-insights"
+    },
+    {
+      "id": 16916722,
+      "name": "Eurostaff-Big-Data"
+    },
+    {
+      "id": 16936312,
+      "name": "Data-Natives-London"
+    },
+    {
+      "id": 18037392,
+      "name": "London-Open-Data-Missions"
+    },
+    {
+      "id": 18138962,
+      "name": "LondonCyberTech"
+    },
+    {
+      "id": 18235566,
+      "name": "Hands-on-Big-data-science-workshop"
+    },
+    {
+      "id": 18370158,
+      "name": "hackameetup"
+    },
+    {
+      "id": 18438243,
+      "name": "The-Victoria-Park-French-Bulldog-Meet-Up-Group"
+    },
+    {
+      "id": 18508329,
+      "name": "FintechTuesday"
+    },
+    {
+      "id": 18592055,
+      "name": "Advanced-Spark-and-TensorFlow-Meetup-London"
+    },
+    {
+      "id": 18592138,
+      "name": "Stack-Overflow-Meetups"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18660042,
+      "name": "Neurons-AI-UK-London"
+    },
+    {
+      "id": 18712511,
+      "name": "Advanced-Spark-and-TensorFlow-Meetup"
+    },
+    {
+      "id": 18849591,
+      "name": "London-Quant-Club"
+    },
+    {
+      "id": 18877407,
+      "name": "DataTech"
+    },
+    {
+      "id": 19109169,
+      "name": "London-Applied-ML-AI-Meetup"
+    },
+    {
+      "id": 19115240,
+      "name": "London-Spark-Coding-Dojo"
+    },
+    {
+      "id": 19303654,
+      "name": "London-Algorithmic-Trading"
+    },
+    {
+      "id": 19507666,
+      "name": "London-Machine-Learning-Practice-Meetup"
+    },
+    {
+      "id": 19548515,
+      "name": "London-Machine-Learning-Study-Group"
+    },
+    {
+      "id": 19569005,
+      "name": "Data-Science-for-Internet-of-Things-Meetup-London"
+    },
+    {
+      "id": 19628323,
+      "name": "Coding-Hour-London-After-work-drinks-for-developers"
+    },
+    {
+      "id": 19679882,
+      "name": "Advance-in-your-career-Udacity-London-Meetup"
+    },
+    {
+      "id": 19877173,
+      "name": "Football-hyde-park-sunday-Kick-about"
+    },
+    {
+      "id": 19878701,
+      "name": "sandbot"
+    },
+    {
+      "id": 20293484,
+      "name": "Scala-Central"
+    },
+    {
+      "id": 20324272,
+      "name": "Data-Engineering-London"
+    },
+    {
+      "id": 20326276,
+      "name": "Full-Stack-Quants"
+    },
+    {
+      "id": 20389720,
+      "name": "London-TensorFlow-Meetup"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21757329,
+      "name": "project_euler"
+    },
+    {
+      "id": 21789212,
+      "name": "Byte-Academy-FinTech-Python-Blockchain-Education"
+    },
+    {
+      "id": 22213857,
+      "name": "Computer-Science-Noobs"
+    },
+    {
+      "id": 22286164,
+      "name": "IoT-Hardware-Blockchain-Meetup"
+    },
+    {
+      "id": 22286385,
+      "name": "London-Artificial-Intelligence-Blockchain-Meetup"
+    },
+    {
+      "id": 22312282,
+      "name": "London-Artificial-Intelligence-Deep-Learning"
+    },
+    {
+      "id": 22567308,
+      "name": "The-Alan-Turing-Institute-Meetup"
+    },
+    {
+      "id": 22618239,
+      "name": "North-London-Football-and-Social"
+    },
+    {
+      "id": 22956207,
+      "name": "London-Sports-Analytics-Meetup"
+    },
+    {
+      "id": 23030245,
+      "name": "London-Machine-Intelligence-Quants-Meetup"
+    },
+    {
+      "id": 23199336,
+      "name": "AI-Machine-Learning-Enterprise-Applications"
+    },
+    {
+      "id": 23218147,
+      "name": "London-Probability-Theory-Meetup"
+    },
+    {
+      "id": 23573811,
+      "name": "Sports-Analytics-London"
+    },
+    {
+      "id": 24010678,
+      "name": "London-Deep-Learning-Meetup"
+    }
+  ],
+  "184678455": [
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 18037392,
+      "name": "London-Open-Data-Missions"
+    },
+    {
+      "id": 18407743,
+      "name": "import-io-users-group"
+    },
+    {
+      "id": 19690987,
+      "name": "futureofdata-london"
+    },
+    {
+      "id": 19768279,
+      "name": "Artificial-Intelligence-Meetup-London"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 20324272,
+      "name": "Data-Engineering-London"
+    },
+    {
+      "id": 20552008,
+      "name": "Big-Data-Hadoop-Ingest-Transform-Apex-London-Online"
+    },
+    {
+      "id": 21061610,
+      "name": "Code-For-Democracy"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22312282,
+      "name": "London-Artificial-Intelligence-Deep-Learning"
+    }
+  ],
+  "184677933": [
+    {
+      "id": 374207,
+      "name": "Business-Networking-and-Growth"
+    },
+    {
+      "id": 4331892,
+      "name": "frog-valley"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 9581702,
+      "name": "General-Assembly-Meetup"
+    },
+    {
+      "id": 10334072,
+      "name": "Hardware-Pioneers-London-Hardware-Startups"
+    },
+    {
+      "id": 11284842,
+      "name": "Lean-Coffee-London"
+    },
+    {
+      "id": 15981952,
+      "name": "TechCityCoffee"
+    },
+    {
+      "id": 16811902,
+      "name": "AdTech-Meetup-London"
+    },
+    {
+      "id": 18198734,
+      "name": "Start-ups-pitch-and-New-Connections"
+    },
+    {
+      "id": 18432159,
+      "name": "Venture-Hack-Network"
+    },
+    {
+      "id": 18919090,
+      "name": "Tech-Leaders-Tell-All"
+    },
+    {
+      "id": 18989008,
+      "name": "LondonLean"
+    },
+    {
+      "id": 19089872,
+      "name": "Lean-Product-Delivery"
+    },
+    {
+      "id": 19507666,
+      "name": "London-Machine-Learning-Practice-Meetup"
+    },
+    {
+      "id": 19523460,
+      "name": "London-Big-Data-Analytics-Meet-up"
+    },
+    {
+      "id": 19593715,
+      "name": "UN-Influx"
+    },
+    {
+      "id": 19647424,
+      "name": "Disruptive-Startups-Entrepreneurs"
+    },
+    {
+      "id": 20113100,
+      "name": "Early-Adopters-users-developers"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22258455,
+      "name": "Espresso-Martini-Accenture-Class-of-2017-Pitch-Night"
+    },
+    {
+      "id": 22283959,
+      "name": "Diversity-Inclusion-in-Technology"
+    }
+  ],
+  "8625979": [
+    {
+      "id": 1581802,
+      "name": "the-london-lean-startup-group"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 10334072,
+      "name": "Hardware-Pioneers-London-Hardware-Startups"
+    },
+    {
+      "id": 16811902,
+      "name": "AdTech-Meetup-London"
+    },
+    {
+      "id": 18538093,
+      "name": "New-York-Cryptoparty-Network"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22615945,
+      "name": "The-Independent-MarTech-Data-Insight-Experts-Meetup"
+    }
+  ],
+  "217153201": [
+    {
+      "id": 17611242,
+      "name": "ShoreditchJS"
+    },
+    {
+      "id": 18313232,
+      "name": "Kubernetes-London"
+    },
+    {
+      "id": 19331544,
+      "name": "gdgcloud"
+    },
+    {
+      "id": 19573010,
+      "name": "AHODevOps"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22412886,
+      "name": "London-Learn-Ruby-on-Rails"
+    }
+  ],
+  "218381718": [
+    {
+      "id": 1594526,
+      "name": "LondonR"
+    },
+    {
+      "id": 1761047,
+      "name": "SiliconRoundabout"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3440102,
+      "name": "Data-Visualization-London"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 13958342,
+      "name": "Python-for-Quant-Finance-London"
+    },
+    {
+      "id": 18245435,
+      "name": "founderscoders"
+    },
+    {
+      "id": 18535628,
+      "name": "London-Cambridge-Spark"
+    },
+    {
+      "id": 19040886,
+      "name": "Data-Data-Data"
+    },
+    {
+      "id": 19563374,
+      "name": "React-London-Bring-Your-Own-Project"
+    },
+    {
+      "id": 19738019,
+      "name": "c0d1ng"
+    },
+    {
+      "id": 19860912,
+      "name": "central_london_data_science"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 20070426,
+      "name": "london-twitter-developer-community"
+    },
+    {
+      "id": 20214881,
+      "name": "Big-Data-Next-Gen-Hadoop-Ingest-Transform-London"
+    },
+    {
+      "id": 20214945,
+      "name": "Apex-Users-Group-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22896718,
+      "name": "WeR-stats"
+    },
+    {
+      "id": 23170669,
+      "name": "Intro-to-R-workshop"
+    }
+  ],
+  "97453122": [
+    {
+      "id": 435813,
+      "name": "londonocc"
+    },
+    {
+      "id": 2590642,
+      "name": "iotlondon"
+    },
+    {
+      "id": 12391432,
+      "name": "Wearables-London"
+    },
+    {
+      "id": 15601782,
+      "name": "Professionals-and-startups"
+    },
+    {
+      "id": 16051612,
+      "name": "launch22"
+    },
+    {
+      "id": 18509807,
+      "name": "London-Product-Club"
+    },
+    {
+      "id": 18738286,
+      "name": "Massive-Small"
+    },
+    {
+      "id": 18750230,
+      "name": "Internet-of-Things-Innovators-UK"
+    },
+    {
+      "id": 19083047,
+      "name": "Cocoon-Tech-Creative-Start-ups-Professionals-Meetup"
+    },
+    {
+      "id": 19089624,
+      "name": "Data-Plus-Women"
+    },
+    {
+      "id": 20090519,
+      "name": "HackOnWheels"
+    },
+    {
+      "id": 21061610,
+      "name": "Code-For-Democracy"
+    },
+    {
+      "id": 21218491,
+      "name": "GovTech"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "94631482": [
+    {
+      "id": 218194,
+      "name": "phplondon"
+    },
+    {
+      "id": 841735,
+      "name": "Londonjavacommunity"
+    },
+    {
+      "id": 1114381,
+      "name": "london-nosql-mysql"
+    },
+    {
+      "id": 1350857,
+      "name": "skillsmatter"
+    },
+    {
+      "id": 1506114,
+      "name": "LondonToastmasters"
+    },
+    {
+      "id": 1554391,
+      "name": "Quantum-Physics-Meetup-Group"
+    },
+    {
+      "id": 1594214,
+      "name": "FSharpLondon"
+    },
+    {
+      "id": 1594526,
+      "name": "LondonR"
+    },
+    {
+      "id": 1677477,
+      "name": "Canberra-R-Users-Group"
+    },
+    {
+      "id": 1712070,
+      "name": "agileDPML"
+    },
+    {
+      "id": 1731903,
+      "name": "Cassandra-London"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1759946,
+      "name": "Big-Data-for-Business"
+    },
+    {
+      "id": 1765501,
+      "name": "Interesting-Talks-London"
+    },
+    {
+      "id": 1768000,
+      "name": "YoungProfessionalsinLondon"
+    },
+    {
+      "id": 1789394,
+      "name": "big-data-london"
+    },
+    {
+      "id": 1813951,
+      "name": "Interplanetary"
+    },
+    {
+      "id": 1954021,
+      "name": "graphdb-london"
+    },
+    {
+      "id": 2019081,
+      "name": "London-PostgreSQL-Meetup-Group"
+    },
+    {
+      "id": 2467322,
+      "name": "hadoop-users-group-uk"
+    },
+    {
+      "id": 2590642,
+      "name": "iotlondon"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 2945102,
+      "name": "Data-Visualisation-with-Tableau"
+    },
+    {
+      "id": 3034712,
+      "name": "AWSUGUK"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 3268672,
+      "name": "KanbanCoachingExchangeKCE"
+    },
+    {
+      "id": 3478142,
+      "name": "BigDataIWMT"
+    },
+    {
+      "id": 3531972,
+      "name": "London-PaaS-User-Group-LOPUG"
+    },
+    {
+      "id": 3648652,
+      "name": "BigData-Debate"
+    },
+    {
+      "id": 4089662,
+      "name": "learnsoftwaredevelopment"
+    },
+    {
+      "id": 4273772,
+      "name": "socialdata"
+    },
+    {
+      "id": 4312322,
+      "name": "islington-london-communicators-toastmasters"
+    },
+    {
+      "id": 4501642,
+      "name": "Data-Science-Business-Analytics"
+    },
+    {
+      "id": 4514522,
+      "name": "Augmenting-Reality"
+    },
+    {
+      "id": 4720882,
+      "name": "The-London-English-conversation-group"
+    },
+    {
+      "id": 4884802,
+      "name": "raspberryjam"
+    },
+    {
+      "id": 4925652,
+      "name": "Cambridge-Internet-of-Things"
+    },
+    {
+      "id": 5857932,
+      "name": "big-o-london"
+    },
+    {
+      "id": 6151892,
+      "name": "LondonArduino"
+    },
+    {
+      "id": 6315162,
+      "name": "Predictive-Analytics-London-Meetup"
+    },
+    {
+      "id": 6443942,
+      "name": "HPC-GPU-Supercomputing-Group-of-London"
+    },
+    {
+      "id": 6514622,
+      "name": "Data-Science-Oxford"
+    },
+    {
+      "id": 6709082,
+      "name": "data-science-lab"
+    },
+    {
+      "id": 6787822,
+      "name": "London-Artificial-Intelligence-Futurists"
+    },
+    {
+      "id": 6984532,
+      "name": "ACCULondon"
+    },
+    {
+      "id": 7439532,
+      "name": "Reading-Cassandra-Users"
+    },
+    {
+      "id": 8088362,
+      "name": "Raspberry-Pint-London"
+    },
+    {
+      "id": 8118552,
+      "name": "techxperts"
+    },
+    {
+      "id": 8672662,
+      "name": "londonlinux"
+    },
+    {
+      "id": 8931222,
+      "name": "AnalyticsNetwork"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 9923682,
+      "name": "Data-Analytics-Innovation-Entrepreneurship"
+    },
+    {
+      "id": 10070012,
+      "name": "NodeBots-of-London"
+    },
+    {
+      "id": 10996752,
+      "name": "julia-cajun"
+    },
+    {
+      "id": 11281982,
+      "name": "KNIME-User-Group-UK"
+    },
+    {
+      "id": 11309242,
+      "name": "London-Julia-User-Group"
+    },
+    {
+      "id": 11398322,
+      "name": "papers-we-love"
+    },
+    {
+      "id": 11470362,
+      "name": "build-business-networking-london"
+    },
+    {
+      "id": 12103862,
+      "name": "Society-of-Data-Miners"
+    },
+    {
+      "id": 12111152,
+      "name": "AgileConnexions"
+    },
+    {
+      "id": 12391432,
+      "name": "Wearables-London"
+    },
+    {
+      "id": 12630522,
+      "name": "drivenbydata-Meet-up"
+    },
+    {
+      "id": 12713192,
+      "name": "Deep-Learning-London"
+    },
+    {
+      "id": 12942662,
+      "name": "GraphQL-London"
+    },
+    {
+      "id": 12962072,
+      "name": "London-NoSQL-and-Big-Data"
+    },
+    {
+      "id": 13129732,
+      "name": "funandunusualeventsinlondon"
+    },
+    {
+      "id": 13227122,
+      "name": "Google-Cloud-Platform-App-Engine-Compute-Engine-BigQuery"
+    },
+    {
+      "id": 13722842,
+      "name": "Spark-London"
+    },
+    {
+      "id": 13958342,
+      "name": "Python-for-Quant-Finance-London"
+    },
+    {
+      "id": 14061362,
+      "name": "Big-Data-Behavioral-Analytics-London"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 14353062,
+      "name": "London-Get-More-From-Data"
+    },
+    {
+      "id": 14354522,
+      "name": "London-PaaS-Bluemix-Meetup"
+    },
+    {
+      "id": 14574542,
+      "name": "London-Bayesian-network-Meetup-Group"
+    },
+    {
+      "id": 14768602,
+      "name": "cityrunningclub"
+    },
+    {
+      "id": 14991272,
+      "name": "mapping-open-data-to-unlock-new-insights"
+    },
+    {
+      "id": 15061512,
+      "name": "London-Education-Technology-Start-ups"
+    },
+    {
+      "id": 16177322,
+      "name": "London-Jess-Robbins-NLP-Practice-Group"
+    },
+    {
+      "id": 16219262,
+      "name": "London-Dev-Community"
+    },
+    {
+      "id": 16490722,
+      "name": "Advanced-Data-Visualization-London"
+    },
+    {
+      "id": 16812872,
+      "name": "stand-up-talk-agile"
+    },
+    {
+      "id": 16916722,
+      "name": "Eurostaff-Big-Data"
+    },
+    {
+      "id": 16936312,
+      "name": "Data-Natives-London"
+    },
+    {
+      "id": 17068942,
+      "name": "Open-Data-London"
+    },
+    {
+      "id": 17622502,
+      "name": "WearableTechLondon"
+    },
+    {
+      "id": 17915572,
+      "name": "Open-IoT-London"
+    },
+    {
+      "id": 18214876,
+      "name": "UK-Computer-Vision-Meetup"
+    },
+    {
+      "id": 18252144,
+      "name": "NEUROSCIENCE-LONDON"
+    },
+    {
+      "id": 18318814,
+      "name": "NLU-London"
+    },
+    {
+      "id": 18356664,
+      "name": "Digital"
+    },
+    {
+      "id": 18407743,
+      "name": "import-io-users-group"
+    },
+    {
+      "id": 18411979,
+      "name": "Financial-Modelling-in-Excel-Meetup-London"
+    },
+    {
+      "id": 18453194,
+      "name": "Practical-Philosophy-in-Central-London"
+    },
+    {
+      "id": 18474292,
+      "name": "Cambridge-Spark"
+    },
+    {
+      "id": 18476818,
+      "name": "Web-Analytics-Wednesday-London"
+    },
+    {
+      "id": 18527929,
+      "name": "London-Autodidacts-Programming"
+    },
+    {
+      "id": 18550292,
+      "name": "Agile-with-UNICOM"
+    },
+    {
+      "id": 18560356,
+      "name": "Trendwise-Research-London"
+    },
+    {
+      "id": 18581527,
+      "name": "data-visual-London"
+    },
+    {
+      "id": 18589612,
+      "name": "Tech-Tuesday-London"
+    },
+    {
+      "id": 18592055,
+      "name": "Advanced-Spark-and-TensorFlow-Meetup-London"
+    },
+    {
+      "id": 18645674,
+      "name": "London-Cognitive-Computing-Meetup"
+    },
+    {
+      "id": 18657875,
+      "name": "Applied-Deep-Learning-Meetup"
+    },
+    {
+      "id": 18660042,
+      "name": "Neurons-AI-UK-London"
+    },
+    {
+      "id": 18674626,
+      "name": "London-Data-Science-Journal-Club"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 18712511,
+      "name": "Advanced-Spark-and-TensorFlow-Meetup"
+    },
+    {
+      "id": 18742048,
+      "name": "Data-Scientist"
+    },
+    {
+      "id": 18791166,
+      "name": "Digital-Inclusion-Network"
+    },
+    {
+      "id": 18849591,
+      "name": "London-Quant-Club"
+    },
+    {
+      "id": 18856397,
+      "name": "Financial-Modeling-Quants-Bankers-and-Analysts"
+    },
+    {
+      "id": 18864999,
+      "name": "London-Data-Visualization"
+    },
+    {
+      "id": 18877407,
+      "name": "DataTech"
+    },
+    {
+      "id": 18904198,
+      "name": "CamPUG"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 18956845,
+      "name": "Pencil-Web-Development-Training"
+    },
+    {
+      "id": 18979039,
+      "name": "South-England-Natural-Language-Processing-Meetup"
+    },
+    {
+      "id": 19040874,
+      "name": "Challenge-Big-Data-Hosted-by-Pentaho"
+    },
+    {
+      "id": 19069157,
+      "name": "TalendLondon"
+    },
+    {
+      "id": 19076109,
+      "name": "Student-Robotics-in-London"
+    },
+    {
+      "id": 19080810,
+      "name": "LondonandSEbigdata"
+    },
+    {
+      "id": 19089505,
+      "name": "The-Audio-Analytic-Tech-Talks"
+    },
+    {
+      "id": 19109169,
+      "name": "London-Applied-ML-AI-Meetup"
+    },
+    {
+      "id": 19121859,
+      "name": "TensorFlow-London"
+    },
+    {
+      "id": 19130635,
+      "name": "datafoundry"
+    },
+    {
+      "id": 19139557,
+      "name": "AWS-High-Performance-Computing-HPC-London-Meet-Up"
+    },
+    {
+      "id": 19147536,
+      "name": "Haywards-Heath-ROS-AGI-Makers"
+    },
+    {
+      "id": 19154940,
+      "name": "London-Image-Processing-Meetup"
+    },
+    {
+      "id": 19167517,
+      "name": "London-SAS-User-Group"
+    },
+    {
+      "id": 19178419,
+      "name": "London-Jaspersoft-BI-Community-User-Group"
+    },
+    {
+      "id": 19213837,
+      "name": "OpenAI-London"
+    },
+    {
+      "id": 19220049,
+      "name": "Bromley-Kundalini-Yoga-Meditation-Meetup"
+    },
+    {
+      "id": 19232526,
+      "name": "Alfresco-Meetups-for-Government"
+    },
+    {
+      "id": 19303654,
+      "name": "London-Algorithmic-Trading"
+    },
+    {
+      "id": 19331544,
+      "name": "gdgcloud"
+    },
+    {
+      "id": 19439059,
+      "name": "Ealing-Maths-Science-Study-Group"
+    },
+    {
+      "id": 19507666,
+      "name": "London-Machine-Learning-Practice-Meetup"
+    },
+    {
+      "id": 19569005,
+      "name": "Data-Science-for-Internet-of-Things-Meetup-London"
+    },
+    {
+      "id": 19578779,
+      "name": "Bayesian-Mixer-London"
+    },
+    {
+      "id": 19624268,
+      "name": "London-Data-Governance-Meetup"
+    },
+    {
+      "id": 19625477,
+      "name": "Deep-Learning-Lab"
+    },
+    {
+      "id": 19636980,
+      "name": "Virtual-Reality-Business"
+    },
+    {
+      "id": 19690987,
+      "name": "futureofdata-london"
+    },
+    {
+      "id": 19717858,
+      "name": "IoTDataViz-London"
+    },
+    {
+      "id": 19719039,
+      "name": "Self-Development-A-Practical-Approach"
+    },
+    {
+      "id": 19735377,
+      "name": "AI-Month-UK"
+    },
+    {
+      "id": 19738019,
+      "name": "c0d1ng"
+    },
+    {
+      "id": 19751434,
+      "name": "extra-language"
+    },
+    {
+      "id": 19768279,
+      "name": "Artificial-Intelligence-Meetup-London"
+    },
+    {
+      "id": 19773382,
+      "name": "JavaScript-for-Beginners"
+    },
+    {
+      "id": 19776833,
+      "name": "London-PUG"
+    },
+    {
+      "id": 19828002,
+      "name": "DigitalOceanLondon"
+    },
+    {
+      "id": 19831444,
+      "name": "Heart-Intelligence-London"
+    },
+    {
+      "id": 19860912,
+      "name": "central_london_data_science"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 19968380,
+      "name": "International-Association-of-Software-Architects"
+    },
+    {
+      "id": 20080673,
+      "name": "UK-Cloud-Infrastructure-User-Group"
+    },
+    {
+      "id": 20189985,
+      "name": "Tiny-Tableau-Talks"
+    },
+    {
+      "id": 20212173,
+      "name": "London-Data-Visualisation-Meetup"
+    },
+    {
+      "id": 20214881,
+      "name": "Big-Data-Next-Gen-Hadoop-Ingest-Transform-London"
+    },
+    {
+      "id": 20235472,
+      "name": "entdevops"
+    },
+    {
+      "id": 20304876,
+      "name": "London-Modern-Excel-Meetup"
+    },
+    {
+      "id": 20324272,
+      "name": "Data-Engineering-London"
+    },
+    {
+      "id": 20378855,
+      "name": "BCS-Agile-SG-Fresh-Voices"
+    },
+    {
+      "id": 20389720,
+      "name": "London-TensorFlow-Meetup"
+    },
+    {
+      "id": 20399973,
+      "name": "Creative-AI"
+    },
+    {
+      "id": 20580642,
+      "name": "Game-AI-Meetup-GAIM-of-London"
+    },
+    {
+      "id": 20871406,
+      "name": "London-beginR"
+    },
+    {
+      "id": 20881031,
+      "name": "Quantum-Reconnection"
+    },
+    {
+      "id": 20911872,
+      "name": "Enterprise-AI"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21301821,
+      "name": "Birkbeck-Outreach-Events"
+    },
+    {
+      "id": 21702502,
+      "name": "London-Quantum-Computing-Meetup"
+    },
+    {
+      "id": 21752397,
+      "name": "pointlondon"
+    },
+    {
+      "id": 21759181,
+      "name": "Self-Help-Philosophy-Personal-Development-Consciousness"
+    },
+    {
+      "id": 21781522,
+      "name": "Weave-User-Group"
+    },
+    {
+      "id": 21800102,
+      "name": "Artificial-Intelligence-London"
+    },
+    {
+      "id": 22077806,
+      "name": "Londons-Future-Technology-Leaders-Group"
+    },
+    {
+      "id": 22312282,
+      "name": "London-Artificial-Intelligence-Deep-Learning"
+    },
+    {
+      "id": 22530392,
+      "name": "Understanding-JavaScript"
+    },
+    {
+      "id": 22567308,
+      "name": "The-Alan-Turing-Institute-Meetup"
+    },
+    {
+      "id": 22729747,
+      "name": "London-Blockchain-Freelancers"
+    },
+    {
+      "id": 22896718,
+      "name": "WeR-stats"
+    },
+    {
+      "id": 23024428,
+      "name": "DevOps-Breakfast-Club"
+    },
+    {
+      "id": 23159572,
+      "name": "BI-Planning-4-0"
+    },
+    {
+      "id": 23170669,
+      "name": "Intro-to-R-workshop"
+    },
+    {
+      "id": 23199336,
+      "name": "AI-Machine-Learning-Enterprise-Applications"
+    },
+    {
+      "id": 23217533,
+      "name": "fittprofile"
+    },
+    {
+      "id": 23244343,
+      "name": "The-Future-of-Accountancy"
+    },
+    {
+      "id": 23441940,
+      "name": "Cambridge-Rust-Meetup"
+    },
+    {
+      "id": 23602498,
+      "name": "QuantumX-Quantum-Computing-Meetup"
+    },
+    {
+      "id": 23764888,
+      "name": "Neurons-AI-UK-Cambridge"
+    },
+    {
+      "id": 23779679,
+      "name": "London-Senior-Technology-Leaders-Meetup"
+    },
+    {
+      "id": 23782951,
+      "name": "London-Automated-Decision-Intelligence-Meetup"
+    },
+    {
+      "id": 23947293,
+      "name": "Academic-Writing-Workshop"
+    },
+    {
+      "id": 24198481,
+      "name": "Applied-Data-Engineering-London"
+    },
+    {
+      "id": 24318967,
+      "name": "London-Data-Science-AI-Meetup"
+    },
+    {
+      "id": 24602819,
+      "name": "London-Digital-Imaging-and-Processing-Group"
+    }
+  ],
+  "216278592": [
+    {
+      "id": 6151892,
+      "name": "LondonArduino"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 10625522,
+      "name": "london-creative-coding"
+    },
+    {
+      "id": 14005822,
+      "name": "Cognitive-Computing-Enthusiasts"
+    },
+    {
+      "id": 15169592,
+      "name": "IEEE-Robotics-and-Automation-Society"
+    },
+    {
+      "id": 18660042,
+      "name": "Neurons-AI-UK-London"
+    },
+    {
+      "id": 19121859,
+      "name": "TensorFlow-London"
+    },
+    {
+      "id": 19548515,
+      "name": "London-Machine-Learning-Study-Group"
+    },
+    {
+      "id": 19679882,
+      "name": "Advance-in-your-career-Udacity-London-Meetup"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 20229657,
+      "name": "CognitionX-Community"
+    },
+    {
+      "id": 20399973,
+      "name": "Creative-AI"
+    },
+    {
+      "id": 20488935,
+      "name": "Data-Science-to-Startup"
+    },
+    {
+      "id": 20552008,
+      "name": "Big-Data-Hadoop-Ingest-Transform-Apex-London-Online"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22103498,
+      "name": "London-Python-coding-for-medics"
+    },
+    {
+      "id": 22226816,
+      "name": "AI-Disrupting-Sustainability-conference-in-Cambridge"
+    },
+    {
+      "id": 22286385,
+      "name": "London-Artificial-Intelligence-Blockchain-Meetup"
+    },
+    {
+      "id": 22322908,
+      "name": "Smart-Textile-and-Robotics-Meetup"
+    },
+    {
+      "id": 22335498,
+      "name": "Autonomous-Tech-Fetish"
+    },
+    {
+      "id": 22353028,
+      "name": "Jae-Yeon-Kim"
+    },
+    {
+      "id": 22364242,
+      "name": "London-LGBT-Yoga"
+    },
+    {
+      "id": 22387232,
+      "name": "LogiAnalytics-User-Group"
+    },
+    {
+      "id": 22392802,
+      "name": "Algorithmic-Art"
+    },
+    {
+      "id": 22791986,
+      "name": "RecSys-London"
+    },
+    {
+      "id": 22980384,
+      "name": "Artificially-Intelligent-Interface-Development"
+    },
+    {
+      "id": 22981297,
+      "name": "Robotic-Process-Automation-RPA-Meetup"
+    },
+    {
+      "id": 23030245,
+      "name": "London-Machine-Intelligence-Quants-Meetup"
+    },
+    {
+      "id": 23170669,
+      "name": "Intro-to-R-workshop"
+    },
+    {
+      "id": 23182115,
+      "name": "Big-Data-and-Data-Analytics-London"
+    },
+    {
+      "id": 23191944,
+      "name": "AIGLondonDataScienceMeetup"
+    },
+    {
+      "id": 23199336,
+      "name": "AI-Machine-Learning-Enterprise-Applications"
+    },
+    {
+      "id": 23404465,
+      "name": "SEO-London-with-Data-Science-and-Machine-Learning"
+    },
+    {
+      "id": 23587720,
+      "name": "Artificial-Intelligence-and-the-gambling-tech-sector-meetup"
+    },
+    {
+      "id": 23602498,
+      "name": "QuantumX-Quantum-Computing-Meetup"
+    },
+    {
+      "id": 24318967,
+      "name": "London-Data-Science-AI-Meetup"
+    }
+  ],
+  "186080782": [
+    {
+      "id": 18537728,
+      "name": "French-conversation-advanced-level"
+    },
+    {
+      "id": 18754680,
+      "name": "London-Scrum-Meetup"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "204932687": [
+    {
+      "id": 1692643,
+      "name": "london-software-craftsmanship"
+    },
+    {
+      "id": 1768000,
+      "name": "YoungProfessionalsinLondon"
+    },
+    {
+      "id": 11926092,
+      "name": "London-Black-French-Speakers"
+    },
+    {
+      "id": 14522002,
+      "name": "MeetBlackProfessionalsLondon"
+    },
+    {
+      "id": 18399747,
+      "name": "Afro-creative"
+    },
+    {
+      "id": 19147625,
+      "name": "The-Dailies-UK"
+    },
+    {
+      "id": 19590500,
+      "name": "New-to-the-UK-London"
+    },
+    {
+      "id": 20344672,
+      "name": "Agile-London"
+    },
+    {
+      "id": 20371201,
+      "name": "NixOS-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22030698,
+      "name": "London-friends-and-coffee-meetup"
+    },
+    {
+      "id": 22652025,
+      "name": "Panel-Discussion-Networking-Events-for-Black-Professionals"
+    },
+    {
+      "id": 22663021,
+      "name": "theislandretreat"
+    },
+    {
+      "id": 22880602,
+      "name": "Polyglot-Full-Stack-Developers"
+    },
+    {
+      "id": 23126759,
+      "name": "Mozilla-Developer-Roadshow-UK-Edition"
+    },
+    {
+      "id": 23229047,
+      "name": "ukblacktech"
+    },
+    {
+      "id": 24409965,
+      "name": "old-school-rnb"
+    }
+  ],
+  "101685832": [
+    {
+      "id": 233891,
+      "name": "londonblack"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3761952,
+      "name": "EAST-AFRICAN-LONDON"
+    },
+    {
+      "id": 4091322,
+      "name": "Young-African"
+    },
+    {
+      "id": 7217372,
+      "name": "LondonMahoganyMeetup"
+    },
+    {
+      "id": 17412612,
+      "name": "AfricaTechLondon"
+    },
+    {
+      "id": 18238278,
+      "name": "Nubian-Nights-Out"
+    },
+    {
+      "id": 18630341,
+      "name": "West-Norwood-and-South-London-Social-Meet-up-Group"
+    },
+    {
+      "id": 18657875,
+      "name": "Applied-Deep-Learning-Meetup"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 19625477,
+      "name": "Deep-Learning-Lab"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22263375,
+      "name": "Lovers-Of-Black-Theatre"
+    },
+    {
+      "id": 22286385,
+      "name": "London-Artificial-Intelligence-Blockchain-Meetup"
+    },
+    {
+      "id": 22312282,
+      "name": "London-Artificial-Intelligence-Deep-Learning"
+    }
+  ],
+  "185067403": [],
+  "221959759": [
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "160192202": [
+    {
+      "id": 233891,
+      "name": "londonblack"
+    },
+    {
+      "id": 1590803,
+      "name": "bellanetworking"
+    },
+    {
+      "id": 2739822,
+      "name": "The-London-Taste-Of-Africa"
+    },
+    {
+      "id": 4893402,
+      "name": "blackqualityfriendshipsandrelationships"
+    },
+    {
+      "id": 6166792,
+      "name": "Women-in-Data"
+    },
+    {
+      "id": 6649432,
+      "name": "Nigerianthinkers"
+    },
+    {
+      "id": 8448802,
+      "name": "public-speaking-presentation"
+    },
+    {
+      "id": 11854362,
+      "name": "Women-Who-Code-London"
+    },
+    {
+      "id": 12983892,
+      "name": "technopreneurs"
+    },
+    {
+      "id": 16613742,
+      "name": "Virtual-IoT"
+    },
+    {
+      "id": 17412612,
+      "name": "AfricaTechLondon"
+    },
+    {
+      "id": 18252400,
+      "name": "Shy-Girls-London"
+    },
+    {
+      "id": 18356664,
+      "name": "Digital"
+    },
+    {
+      "id": 18487913,
+      "name": "Nigerian-Masterminds"
+    },
+    {
+      "id": 19108025,
+      "name": "TensorFlow-New-York"
+    },
+    {
+      "id": 19121859,
+      "name": "TensorFlow-London"
+    },
+    {
+      "id": 19144720,
+      "name": "Black-ladies-of-London"
+    },
+    {
+      "id": 19227306,
+      "name": "Be-a-Charming-Woman-London"
+    },
+    {
+      "id": 19499264,
+      "name": "From-PhD-to-Startup-Meetup-Edinburgh"
+    },
+    {
+      "id": 19507666,
+      "name": "London-Machine-Learning-Practice-Meetup"
+    },
+    {
+      "id": 19690987,
+      "name": "futureofdata-london"
+    },
+    {
+      "id": 19723478,
+      "name": "ModernAfro"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 19932671,
+      "name": "International-Students-in-the-UK-Meetup"
+    },
+    {
+      "id": 19998260,
+      "name": "London-Tech-Ladies"
+    },
+    {
+      "id": 20156264,
+      "name": "Black-Girls-Picnic"
+    },
+    {
+      "id": 20488935,
+      "name": "Data-Science-to-Startup"
+    },
+    {
+      "id": 20904506,
+      "name": "London-School-of-Entrepreneurs"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 23459433,
+      "name": "African-professional-women"
+    }
+  ],
+  "210602499": [
+    {
+      "id": 1312856,
+      "name": "London-Historical-Fiction-Book-Group"
+    },
+    {
+      "id": 5756202,
+      "name": "Starbucks-Bible-Study-Near-You"
+    },
+    {
+      "id": 5859592,
+      "name": "Big-Data-Jobs-in-London"
+    },
+    {
+      "id": 6166792,
+      "name": "Women-in-Data"
+    },
+    {
+      "id": 7975692,
+      "name": "DataKind-UK"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 10337842,
+      "name": "Graduate-Data-Science-Initiative"
+    },
+    {
+      "id": 12962072,
+      "name": "London-NoSQL-and-Big-Data"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 18231673,
+      "name": "Jumpingwithus"
+    },
+    {
+      "id": 18403165,
+      "name": "ReviewdePresse"
+    },
+    {
+      "id": 18877407,
+      "name": "DataTech"
+    },
+    {
+      "id": 19089624,
+      "name": "Data-Plus-Women"
+    },
+    {
+      "id": 19590500,
+      "name": "New-to-the-UK-London"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 19881842,
+      "name": "London-Cloudera-User-Group"
+    },
+    {
+      "id": 20214881,
+      "name": "Big-Data-Next-Gen-Hadoop-Ingest-Transform-London"
+    },
+    {
+      "id": 20617056,
+      "name": "London-Museum-of-Happiness-Meetup-Group"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22169559,
+      "name": "Inspiring-Women-in-Data-Science"
+    }
+  ],
+  "82211732": [
+    {
+      "id": 255112,
+      "name": "indielondon"
+    },
+    {
+      "id": 1749213,
+      "name": "FreeLondonEvents"
+    },
+    {
+      "id": 1804831,
+      "name": "London-Unity-Usergroup"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 3783092,
+      "name": "KaraOKulta"
+    },
+    {
+      "id": 4490912,
+      "name": "London-Indie-Game-Developers"
+    },
+    {
+      "id": 6787822,
+      "name": "London-Artificial-Intelligence-Futurists"
+    },
+    {
+      "id": 7770862,
+      "name": "Big-Data-Developers-in-Mexico-City"
+    },
+    {
+      "id": 11497442,
+      "name": "alternativeeventsuk"
+    },
+    {
+      "id": 11726422,
+      "name": "igdalondon"
+    },
+    {
+      "id": 12447672,
+      "name": "Oxford-and-London-Interactive-Fiction-Group"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 16462462,
+      "name": "London-New-Tech"
+    },
+    {
+      "id": 18245435,
+      "name": "founderscoders"
+    },
+    {
+      "id": 18366511,
+      "name": "Terrible-football-in-London"
+    },
+    {
+      "id": 18657875,
+      "name": "Applied-Deep-Learning-Meetup"
+    },
+    {
+      "id": 18660042,
+      "name": "Neurons-AI-UK-London"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 19213837,
+      "name": "OpenAI-London"
+    },
+    {
+      "id": 19392494,
+      "name": "London-Unreal-Engine-Meetup"
+    },
+    {
+      "id": 19951228,
+      "name": "VR-AR-Association-London"
+    },
+    {
+      "id": 20183106,
+      "name": "Lazy-20s-Events"
+    },
+    {
+      "id": 20399973,
+      "name": "Creative-AI"
+    },
+    {
+      "id": 20484379,
+      "name": "London-AR-AI-Meetup"
+    },
+    {
+      "id": 20580642,
+      "name": "Game-AI-Meetup-GAIM-of-London"
+    },
+    {
+      "id": 20738365,
+      "name": "AI-Showcase"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21311743,
+      "name": "FREE-Conversational-English-Club"
+    },
+    {
+      "id": 21492480,
+      "name": "London-Monthly-Web-Hackathon"
+    },
+    {
+      "id": 21757329,
+      "name": "project_euler"
+    },
+    {
+      "id": 22392802,
+      "name": "Algorithmic-Art"
+    },
+    {
+      "id": 23573811,
+      "name": "Sports-Analytics-London"
+    },
+    {
+      "id": 23821185,
+      "name": "The-Virtual_London"
+    },
+    {
+      "id": 24223489,
+      "name": "English-practice-for-newbies"
+    }
+  ],
+  "224013966": [
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "7881615": [
+    {
+      "id": 919892,
+      "name": "javascript-3"
+    },
+    {
+      "id": 1594526,
+      "name": "LondonR"
+    },
+    {
+      "id": 1686346,
+      "name": "HacksHackersLondon"
+    },
+    {
+      "id": 1724878,
+      "name": "London-Web-Performance-Group"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1789394,
+      "name": "big-data-london"
+    },
+    {
+      "id": 1954021,
+      "name": "graphdb-london"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 3269222,
+      "name": "LonData"
+    },
+    {
+      "id": 3440102,
+      "name": "Data-Visualization-London"
+    },
+    {
+      "id": 4062902,
+      "name": "London-Emberjs-User-Group"
+    },
+    {
+      "id": 6709082,
+      "name": "data-science-lab"
+    },
+    {
+      "id": 7975692,
+      "name": "DataKind-UK"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 11281982,
+      "name": "KNIME-User-Group-UK"
+    },
+    {
+      "id": 12103862,
+      "name": "Society-of-Data-Miners"
+    },
+    {
+      "id": 12310442,
+      "name": "London-d3js"
+    },
+    {
+      "id": 14538032,
+      "name": "London-React-User-Group"
+    },
+    {
+      "id": 16728032,
+      "name": "WebPlatform-London"
+    },
+    {
+      "id": 17412612,
+      "name": "AfricaTechLondon"
+    },
+    {
+      "id": 18407743,
+      "name": "import-io-users-group"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 19349082,
+      "name": "Node-js-Meetup-London"
+    },
+    {
+      "id": 20039829,
+      "name": "Expedia-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "214938111": [
+    {
+      "id": 1594526,
+      "name": "LondonR"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1761047,
+      "name": "SiliconRoundabout"
+    },
+    {
+      "id": 1820779,
+      "name": "London-Web-Analytics-Google-Analytics-OmnitureMVT"
+    },
+    {
+      "id": 1988251,
+      "name": "businessinlondon"
+    },
+    {
+      "id": 2467322,
+      "name": "hadoop-users-group-uk"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 6410072,
+      "name": "3D-Printing-London"
+    },
+    {
+      "id": 6648532,
+      "name": "BAMEentrepreneurs"
+    },
+    {
+      "id": 6709082,
+      "name": "data-science-lab"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 10183052,
+      "name": "Nerd-Nite-London-learn-interesting-stuff-while-drinking"
+    },
+    {
+      "id": 10337842,
+      "name": "Graduate-Data-Science-Initiative"
+    },
+    {
+      "id": 12983892,
+      "name": "technopreneurs"
+    },
+    {
+      "id": 13958342,
+      "name": "Python-for-Quant-Finance-London"
+    },
+    {
+      "id": 15627622,
+      "name": "COMPLIMENTARY-3-MONTHS-FOREX-TRADING-PROGRAM"
+    },
+    {
+      "id": 16023052,
+      "name": "Tech-Chess"
+    },
+    {
+      "id": 16916722,
+      "name": "Eurostaff-Big-Data"
+    },
+    {
+      "id": 18356664,
+      "name": "Digital"
+    },
+    {
+      "id": 18527929,
+      "name": "London-Autodidacts-Programming"
+    },
+    {
+      "id": 18581527,
+      "name": "data-visual-London"
+    },
+    {
+      "id": 18588035,
+      "name": "sqlsupperlondon"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 19303654,
+      "name": "London-Algorithmic-Trading"
+    },
+    {
+      "id": 19537185,
+      "name": "City-of-London-Blockchain-Investors-Meetup-Group"
+    },
+    {
+      "id": 19647424,
+      "name": "Disruptive-Startups-Entrepreneurs"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 19998954,
+      "name": "synbio-london"
+    },
+    {
+      "id": 20055740,
+      "name": "Blockchain-Startups-London"
+    },
+    {
+      "id": 20081998,
+      "name": "West-London-Coders"
+    },
+    {
+      "id": 20177807,
+      "name": "Renewable-Energy-UK"
+    },
+    {
+      "id": 20214881,
+      "name": "Big-Data-Next-Gen-Hadoop-Ingest-Transform-London"
+    },
+    {
+      "id": 20245210,
+      "name": "Convergence-where-tech-meets"
+    },
+    {
+      "id": 20310450,
+      "name": "Hack-Brexit"
+    },
+    {
+      "id": 21196227,
+      "name": "blockchain-London"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21530435,
+      "name": "Startup-Explosion-Bust-The-Myths-Live-Your-Dream"
+    },
+    {
+      "id": 21574514,
+      "name": "Train-The-Trader"
+    },
+    {
+      "id": 21664949,
+      "name": "FinTechEcosystem-London"
+    },
+    {
+      "id": 22258455,
+      "name": "Espresso-Martini-Accenture-Class-of-2017-Pitch-Night"
+    }
+  ],
+  "209419141": [
+    {
+      "id": 6439632,
+      "name": "BusinessesNetwork"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 12608542,
+      "name": "Fashionista-Social-Club"
+    },
+    {
+      "id": 16424342,
+      "name": "Fashion-Start-ups-Entrepreneurs"
+    },
+    {
+      "id": 16462462,
+      "name": "London-New-Tech"
+    },
+    {
+      "id": 18198734,
+      "name": "Start-ups-pitch-and-New-Connections"
+    },
+    {
+      "id": 18698652,
+      "name": "Agile-Data-London-Meetup"
+    },
+    {
+      "id": 18918791,
+      "name": "london-tech-startups"
+    },
+    {
+      "id": 19776833,
+      "name": "London-PUG"
+    },
+    {
+      "id": 20266297,
+      "name": "Tech-Trainers-London"
+    },
+    {
+      "id": 20278175,
+      "name": "Intellectual-Property-Business"
+    },
+    {
+      "id": 20547632,
+      "name": "London-Christian-Professionals-Virtual-Meetup"
+    },
+    {
+      "id": 20676990,
+      "name": "London-Startup-Entrepreneurs-Network"
+    },
+    {
+      "id": 20756164,
+      "name": "VR-AR-London-MeetUp-Group"
+    },
+    {
+      "id": 20767125,
+      "name": "Ecommerce-Accelerated"
+    },
+    {
+      "id": 20814614,
+      "name": "meetup-group-qWwkpwdV"
+    },
+    {
+      "id": 20816387,
+      "name": "Talend-Meetup"
+    },
+    {
+      "id": 20853057,
+      "name": "Internet-Startups"
+    },
+    {
+      "id": 20897273,
+      "name": "London-Business-Creativity-Rulebreaking-Meetup"
+    },
+    {
+      "id": 20926082,
+      "name": "MiSK-Hackathon"
+    },
+    {
+      "id": 20945598,
+      "name": "London-Analytics"
+    },
+    {
+      "id": 21035612,
+      "name": "Global-South-Tech-Meetup-London"
+    },
+    {
+      "id": 21130600,
+      "name": "Personal-Branding-Strategies"
+    },
+    {
+      "id": 21135438,
+      "name": "ChineseMarketing"
+    },
+    {
+      "id": 21220981,
+      "name": "ThebeingAgile"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22305048,
+      "name": "Linnworks-eBay-Amazon-Beyond"
+    },
+    {
+      "id": 22312282,
+      "name": "London-Artificial-Intelligence-Deep-Learning"
+    },
+    {
+      "id": 22318560,
+      "name": "London-Startup-Factory"
+    },
+    {
+      "id": 22323012,
+      "name": "fashion-marketing"
+    },
+    {
+      "id": 23961443,
+      "name": "Amazon-Sellers-London"
+    }
+  ],
+  "185018609": [],
+  "13260851": [
+    {
+      "id": 1582377,
+      "name": "magento-london"
+    },
+    {
+      "id": 1712070,
+      "name": "agileDPML"
+    },
+    {
+      "id": 1954021,
+      "name": "graphdb-london"
+    },
+    {
+      "id": 2590642,
+      "name": "iotlondon"
+    },
+    {
+      "id": 19826893,
+      "name": "Luton-Web-Development-Meetup"
+    },
+    {
+      "id": 21072712,
+      "name": "meetup-group-zEHlMlWu"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "199972296": [
+    {
+      "id": 4455882,
+      "name": "ln-enterprise-tech"
+    },
+    {
+      "id": 19337228,
+      "name": "Silicon-Canal-Newbury-Meetup"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "213051333": [
+    {
+      "id": 3752422,
+      "name": "Financial-Engineers-Quants-London"
+    },
+    {
+      "id": 6709082,
+      "name": "data-science-lab"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 18849591,
+      "name": "London-Quant-Club"
+    },
+    {
+      "id": 19303654,
+      "name": "London-Algorithmic-Trading"
+    },
+    {
+      "id": 20326276,
+      "name": "Full-Stack-Quants"
+    },
+    {
+      "id": 20552008,
+      "name": "Big-Data-Hadoop-Ingest-Transform-Apex-London-Online"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 22179795,
+      "name": "London-AWS-and-Big-Data-Meetup"
+    },
+    {
+      "id": 24198481,
+      "name": "Applied-Data-Engineering-London"
+    }
+  ],
+  "186998201": [],
+  "206863602": [],
+  "144081412": [
+    {
+      "id": 340986,
+      "name": "leedswalkinggroup"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1789394,
+      "name": "big-data-london"
+    },
+    {
+      "id": 3482932,
+      "name": "Leeds-Riak"
+    },
+    {
+      "id": 9532522,
+      "name": "Docker-London"
+    },
+    {
+      "id": 12710132,
+      "name": "code-u"
+    },
+    {
+      "id": 14078322,
+      "name": "London-Business-Analytics-Group"
+    },
+    {
+      "id": 16745302,
+      "name": "The-Business-of-IOT"
+    },
+    {
+      "id": 17527352,
+      "name": "GOTO-Nights-London-UK"
+    },
+    {
+      "id": 19507666,
+      "name": "London-Machine-Learning-Practice-Meetup"
+    },
+    {
+      "id": 19523460,
+      "name": "London-Big-Data-Analytics-Meet-up"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    }
+  ],
+  "20398891": [
+    {
+      "id": 261183,
+      "name": "londonphotographic"
+    },
+    {
+      "id": 356058,
+      "name": "minibar"
+    },
+    {
+      "id": 1070873,
+      "name": "filmind-351"
+    },
+    {
+      "id": 1131075,
+      "name": "ukentrepreneurs"
+    },
+    {
+      "id": 1161763,
+      "name": "LondonEntrepreneursNetwork"
+    },
+    {
+      "id": 1411945,
+      "name": "InvestorsandStartups"
+    },
+    {
+      "id": 1601210,
+      "name": "AdvancedPhotography"
+    },
+    {
+      "id": 1651926,
+      "name": "UK-Higher-Performance-Computing"
+    },
+    {
+      "id": 1686346,
+      "name": "HacksHackersLondon"
+    },
+    {
+      "id": 1707517,
+      "name": "London-Indie-RPG-Meetup-Group"
+    },
+    {
+      "id": 1720278,
+      "name": "Filmmakers-United"
+    },
+    {
+      "id": 1733576,
+      "name": "londonprojectproductions2011"
+    },
+    {
+      "id": 1748530,
+      "name": "london-silicon-roundabout"
+    },
+    {
+      "id": 1755625,
+      "name": "allfilmmakers"
+    },
+    {
+      "id": 1761047,
+      "name": "SiliconRoundabout"
+    },
+    {
+      "id": 1789647,
+      "name": "social-networking-for-artists"
+    },
+    {
+      "id": 1798667,
+      "name": "Developers-Entrepreneurs"
+    },
+    {
+      "id": 1804831,
+      "name": "London-Unity-Usergroup"
+    },
+    {
+      "id": 2097611,
+      "name": "Startups-Investors-London"
+    },
+    {
+      "id": 2590642,
+      "name": "iotlondon"
+    },
+    {
+      "id": 2652752,
+      "name": "London-Game-Developers"
+    },
+    {
+      "id": 2704992,
+      "name": "Creative-Digital-Fabricators"
+    },
+    {
+      "id": 2894492,
+      "name": "London-Machine-Learning-Meetup"
+    },
+    {
+      "id": 2934802,
+      "name": "London-Film-Network"
+    },
+    {
+      "id": 3040402,
+      "name": "We-Shoot-People-Street-Photography"
+    },
+    {
+      "id": 3554552,
+      "name": "UK-Hackathons-and-Jams"
+    },
+    {
+      "id": 3701182,
+      "name": "Spring-of-Code"
+    },
+    {
+      "id": 3930852,
+      "name": "Find-A-tech-Job-In-London"
+    },
+    {
+      "id": 4051392,
+      "name": "socentlondon"
+    },
+    {
+      "id": 4091322,
+      "name": "Young-African"
+    },
+    {
+      "id": 4201042,
+      "name": "London-Investors-Entrepreneurs"
+    },
+    {
+      "id": 4263612,
+      "name": "interactivenarratives"
+    },
+    {
+      "id": 4490912,
+      "name": "London-Indie-Game-Developers"
+    },
+    {
+      "id": 4514522,
+      "name": "Augmenting-Reality"
+    },
+    {
+      "id": 4520752,
+      "name": "Start-up-Business-Angels-Entrepreneurs-groups"
+    },
+    {
+      "id": 5003462,
+      "name": "London-Growth-Hackers"
+    },
+    {
+      "id": 6151892,
+      "name": "LondonArduino"
+    },
+    {
+      "id": 6285142,
+      "name": "incubatelondon"
+    },
+    {
+      "id": 6410072,
+      "name": "3D-Printing-London"
+    },
+    {
+      "id": 6787822,
+      "name": "London-Artificial-Intelligence-Futurists"
+    },
+    {
+      "id": 7473612,
+      "name": "London-GameDev-Lunch"
+    },
+    {
+      "id": 7522792,
+      "name": "London-FREE-Film-Festivals"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 8265202,
+      "name": "KhronosUK"
+    },
+    {
+      "id": 8307582,
+      "name": "CitizenInventor"
+    },
+    {
+      "id": 8611312,
+      "name": "London-Virtual-Reality-Developer-Meetup"
+    },
+    {
+      "id": 8659242,
+      "name": "the-london-film-photo-documentary-group"
+    },
+    {
+      "id": 9394452,
+      "name": "SmartMusicians"
+    },
+    {
+      "id": 9426892,
+      "name": "London-VR-for-Games-Meetup"
+    },
+    {
+      "id": 10334072,
+      "name": "Hardware-Pioneers-London-Hardware-Startups"
+    },
+    {
+      "id": 10625522,
+      "name": "london-creative-coding"
+    },
+    {
+      "id": 12391432,
+      "name": "Wearables-London"
+    },
+    {
+      "id": 12713192,
+      "name": "Deep-Learning-London"
+    },
+    {
+      "id": 12952892,
+      "name": "NW-London-Hackers-and-Makers"
+    },
+    {
+      "id": 12983072,
+      "name": "Startups-Entrepreneurs-and-Investors"
+    },
+    {
+      "id": 12983892,
+      "name": "technopreneurs"
+    },
+    {
+      "id": 13500342,
+      "name": "African-Business-Entrepreneur-Networking"
+    },
+    {
+      "id": 16745302,
+      "name": "The-Business-of-IOT"
+    },
+    {
+      "id": 17035702,
+      "name": "London-3D-Computer-Vision-Sensing"
+    },
+    {
+      "id": 17622502,
+      "name": "WearableTechLondon"
+    },
+    {
+      "id": 18198734,
+      "name": "Start-ups-pitch-and-New-Connections"
+    },
+    {
+      "id": 18211462,
+      "name": "crowdtouching"
+    },
+    {
+      "id": 18244666,
+      "name": "London-Venture-Capital-Angel-meetup"
+    },
+    {
+      "id": 18267043,
+      "name": "Robotics-London"
+    },
+    {
+      "id": 18276601,
+      "name": "Crowdfunding-for-Artists"
+    },
+    {
+      "id": 18346024,
+      "name": "Design-Disrupt-Do"
+    },
+    {
+      "id": 18405804,
+      "name": "VR-AR-MR-Immersive-London"
+    },
+    {
+      "id": 18438190,
+      "name": "London-Startup-Marketing"
+    },
+    {
+      "id": 18493278,
+      "name": "Internet-of-Everything-London"
+    },
+    {
+      "id": 18545586,
+      "name": "vrlondon"
+    },
+    {
+      "id": 18555583,
+      "name": "The-playhubs-game-developer-meetup"
+    },
+    {
+      "id": 18562834,
+      "name": "3DSLondon"
+    },
+    {
+      "id": 18580419,
+      "name": "Screens-Content-Augmented-and-Virtual-Reality-Meetup"
+    },
+    {
+      "id": 18592055,
+      "name": "Advanced-Spark-and-TensorFlow-Meetup-London"
+    },
+    {
+      "id": 18599606,
+      "name": "Hardware-Club-London"
+    },
+    {
+      "id": 18645674,
+      "name": "London-Cognitive-Computing-Meetup"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18657875,
+      "name": "Applied-Deep-Learning-Meetup"
+    },
+    {
+      "id": 18660042,
+      "name": "Neurons-AI-UK-London"
+    },
+    {
+      "id": 18750230,
+      "name": "Internet-of-Things-Innovators-UK"
+    },
+    {
+      "id": 18776320,
+      "name": "LondonAppBrewery"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 18952913,
+      "name": "Hardware-Academy-by-Hardware-Startup-IO"
+    },
+    {
+      "id": 19118427,
+      "name": "Kaleido-LDN"
+    },
+    {
+      "id": 19121859,
+      "name": "TensorFlow-London"
+    },
+    {
+      "id": 19125312,
+      "name": "Crowdfunding-Accelerators-Investment-London"
+    },
+    {
+      "id": 19147536,
+      "name": "Haywards-Heath-ROS-AGI-Makers"
+    },
+    {
+      "id": 19213837,
+      "name": "OpenAI-London"
+    },
+    {
+      "id": 19363104,
+      "name": "LanZZZ-London"
+    },
+    {
+      "id": 19445299,
+      "name": "Open-Space-Agency-Meetups"
+    },
+    {
+      "id": 19530431,
+      "name": "UK-BASD"
+    },
+    {
+      "id": 19569005,
+      "name": "Data-Science-for-Internet-of-Things-Meetup-London"
+    },
+    {
+      "id": 19682295,
+      "name": "Virtual-and-Augmented-Reality-for-Sports"
+    },
+    {
+      "id": 19688685,
+      "name": "Business-Funding-Workshops"
+    },
+    {
+      "id": 19717858,
+      "name": "IoTDataViz-London"
+    },
+    {
+      "id": 19726545,
+      "name": "Hyperledger-London"
+    },
+    {
+      "id": 19816483,
+      "name": "Startups-and-Makers-Week"
+    },
+    {
+      "id": 19881697,
+      "name": "London-MMO-Developers"
+    },
+    {
+      "id": 19951228,
+      "name": "VR-AR-Association-London"
+    },
+    {
+      "id": 20084871,
+      "name": "Saturday-Startup-London"
+    },
+    {
+      "id": 20113171,
+      "name": "VR-cameras-VR-movies-VR-gadgets-for-Virtual-Reality-lovers"
+    },
+    {
+      "id": 20389720,
+      "name": "London-TensorFlow-Meetup"
+    },
+    {
+      "id": 20399973,
+      "name": "Creative-AI"
+    },
+    {
+      "id": 20403534,
+      "name": "Streamtrade-Forex-Trading-Network"
+    },
+    {
+      "id": 20581437,
+      "name": "Investors-in-VR"
+    },
+    {
+      "id": 20705447,
+      "name": "magic-leap-london"
+    },
+    {
+      "id": 21235170,
+      "name": "Black-Future-Film-Making"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21508614,
+      "name": "Virtual-Augmented-Mixed-Reality-London"
+    },
+    {
+      "id": 23602498,
+      "name": "QuantumX-Quantum-Computing-Meetup"
+    }
+  ],
+  "36440942": [],
+  "185129749": [
+    {
+      "id": 1161763,
+      "name": "LondonEntrepreneursNetwork"
+    },
+    {
+      "id": 1761047,
+      "name": "SiliconRoundabout"
+    },
+    {
+      "id": 1765501,
+      "name": "Interesting-Talks-London"
+    },
+    {
+      "id": 1798667,
+      "name": "Developers-Entrepreneurs"
+    },
+    {
+      "id": 3248472,
+      "name": "Alternative-nightlife"
+    },
+    {
+      "id": 3554552,
+      "name": "UK-Hackathons-and-Jams"
+    },
+    {
+      "id": 4281872,
+      "name": "UXcrunch"
+    },
+    {
+      "id": 5958022,
+      "name": "Hipsters-Hackers-Hustlers"
+    },
+    {
+      "id": 7112732,
+      "name": "London-Fashion-MeetUp-Group"
+    },
+    {
+      "id": 8103582,
+      "name": "LondonStartupGrind"
+    },
+    {
+      "id": 8448802,
+      "name": "public-speaking-presentation"
+    },
+    {
+      "id": 10711642,
+      "name": "UX-Sketch-Out"
+    },
+    {
+      "id": 13500342,
+      "name": "African-Business-Entrepreneur-Networking"
+    },
+    {
+      "id": 17087602,
+      "name": "building-digital-tribes"
+    },
+    {
+      "id": 18133982,
+      "name": "UX-for-Change"
+    },
+    {
+      "id": 18198734,
+      "name": "Start-ups-pitch-and-New-Connections"
+    },
+    {
+      "id": 18202758,
+      "name": "Off-The-Street"
+    },
+    {
+      "id": 18263507,
+      "name": "Ionic-UK"
+    },
+    {
+      "id": 18385615,
+      "name": "Barcelona-International-Meeting"
+    },
+    {
+      "id": 18532256,
+      "name": "London-JavaScript-Community"
+    },
+    {
+      "id": 18563378,
+      "name": "LuxuryFashionClub"
+    },
+    {
+      "id": 18564131,
+      "name": "London-Fashion-and-Beauty-Meetup"
+    },
+    {
+      "id": 18564612,
+      "name": "UX-crunch-London"
+    },
+    {
+      "id": 18616927,
+      "name": "Startups-UX-Design"
+    },
+    {
+      "id": 18776320,
+      "name": "LondonAppBrewery"
+    },
+    {
+      "id": 18924037,
+      "name": "KickStartUp-Club-London"
+    },
+    {
+      "id": 19086620,
+      "name": "Madrid-Micropreneurs"
+    },
+    {
+      "id": 19609115,
+      "name": "1-DayStart-Up"
+    },
+    {
+      "id": 19676744,
+      "name": "Live-Music-Barcelona"
+    },
+    {
+      "id": 19807054,
+      "name": "UX-Playground-The-User-Experience-Meetup-for-Londoners"
+    },
+    {
+      "id": 19892465,
+      "name": "Canary-Wharfers"
+    },
+    {
+      "id": 19923840,
+      "name": "Access-Silicon-Valley-London"
+    },
+    {
+      "id": 20373000,
+      "name": "London-Retail-Tech-Meetup"
+    },
+    {
+      "id": 20397872,
+      "name": "Nicholas-Nassim-Taleb-Society"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21989911,
+      "name": "Luxury-fashion-networking"
+    },
+    {
+      "id": 22157004,
+      "name": "The-100-Startup-London"
+    },
+    {
+      "id": 22305048,
+      "name": "Linnworks-eBay-Amazon-Beyond"
+    },
+    {
+      "id": 22568907,
+      "name": "London-Retail-Technology-Meetup"
+    },
+    {
+      "id": 23072819,
+      "name": "London-Fashion-Technology-Meetup"
+    }
+  ],
+  "13230637": [
+    {
+      "id": 163876,
+      "name": "londonweb"
+    },
+    {
+      "id": 218194,
+      "name": "phplondon"
+    },
+    {
+      "id": 19978347,
+      "name": "Super-Retro-Gamer"
+    },
+    {
+      "id": 20000968,
+      "name": "AngularZone"
+    },
+    {
+      "id": 20244964,
+      "name": "Tech-Breakfast-London"
+    },
+    {
+      "id": 20325144,
+      "name": "Beer-Driven-Development"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21693637,
+      "name": "DEVUX-mashup"
+    },
+    {
+      "id": 22021080,
+      "name": "graphs"
+    },
+    {
+      "id": 22213857,
+      "name": "Computer-Science-Noobs"
+    },
+    {
+      "id": 22530392,
+      "name": "Understanding-JavaScript"
+    },
+    {
+      "id": 22570700,
+      "name": "Create-professional-video-content-on-a-smartphone"
+    },
+    {
+      "id": 22746075,
+      "name": "Web-XR"
+    },
+    {
+      "id": 22808841,
+      "name": "Hack-Chill"
+    },
+    {
+      "id": 23229047,
+      "name": "ukblacktech"
+    },
+    {
+      "id": 23666282,
+      "name": "frontenders-valtech"
+    }
+  ],
+  "13925521": [
+    {
+      "id": 63977,
+      "name": "frenchmeetup"
+    },
+    {
+      "id": 57457,
+      "name": "ExpatsParis"
+    },
+    {
+      "id": 209815,
+      "name": "TO-frenchmeetup"
+    },
+    {
+      "id": 251143,
+      "name": "asiancanadian-18"
+    },
+    {
+      "id": 321509,
+      "name": "parisrunners"
+    },
+    {
+      "id": 349646,
+      "name": "London-Canadian-Expat"
+    },
+    {
+      "id": 430517,
+      "name": "brunchclub-135"
+    },
+    {
+      "id": 435552,
+      "name": "expat-142"
+    },
+    {
+      "id": 435813,
+      "name": "londonocc"
+    },
+    {
+      "id": 495519,
+      "name": "torontoelectronicmusic"
+    },
+    {
+      "id": 1011472,
+      "name": "EntrepreneursInLondon"
+    },
+    {
+      "id": 1017051,
+      "name": "travel-1067"
+    },
+    {
+      "id": 1250653,
+      "name": "Toronto_TECH"
+    },
+    {
+      "id": 1312233,
+      "name": "Mad-About-Movies-Toronto"
+    },
+    {
+      "id": 1353917,
+      "name": "SocialTorontoEvents"
+    },
+    {
+      "id": 1361767,
+      "name": "52martinis"
+    },
+    {
+      "id": 1382725,
+      "name": "20-30SomethingsInToronto"
+    },
+    {
+      "id": 1459505,
+      "name": "TechTorontoOrg"
+    },
+    {
+      "id": 1464014,
+      "name": "London-Futurists"
+    },
+    {
+      "id": 1482573,
+      "name": "NYC-Apache-Lucene-Solr-Meetup"
+    },
+    {
+      "id": 1572432,
+      "name": "BarCampBankLondon"
+    },
+    {
+      "id": 1579022,
+      "name": "HappyHealthyWomenCanada"
+    },
+    {
+      "id": 1606962,
+      "name": "ProductTank"
+    },
+    {
+      "id": 1659178,
+      "name": "torontoruby"
+    },
+    {
+      "id": 1671648,
+      "name": "torontojs"
+    },
+    {
+      "id": 1703116,
+      "name": "quantifiedself-toronto"
+    },
+    {
+      "id": 1715546,
+      "name": "Soiree-Networking-Paris"
+    },
+    {
+      "id": 1722217,
+      "name": "Toronto-Entrepreneurs"
+    },
+    {
+      "id": 1729483,
+      "name": "leancoffeeto"
+    },
+    {
+      "id": 1732064,
+      "name": "TorontoBusinessandSocialNetwork"
+    },
+    {
+      "id": 1736466,
+      "name": "LondonPython"
+    },
+    {
+      "id": 1748530,
+      "name": "london-silicon-roundabout"
+    },
+    {
+      "id": 1761047,
+      "name": "SiliconRoundabout"
+    },
+    {
+      "id": 1763875,
+      "name": "HackerNest"
+    },
+    {
+      "id": 1773541,
+      "name": "quant-finance"
+    },
+    {
+      "id": 1775789,
+      "name": "TEDxToronto"
+    },
+    {
+      "id": 1792202,
+      "name": "Entrepreneurs-Club"
+    },
+    {
+      "id": 1798667,
+      "name": "Developers-Entrepreneurs"
+    },
+    {
+      "id": 1837261,
+      "name": "MachineIntelligence"
+    },
+    {
+      "id": 1839731,
+      "name": "Good-food-good-wine-good-friends-and-good-times"
+    },
+    {
+      "id": 2065031,
+      "name": "Data-Mining"
+    },
+    {
+      "id": 2466382,
+      "name": "gdg-paris"
+    },
+    {
+      "id": 2467322,
+      "name": "hadoop-users-group-uk"
+    },
+    {
+      "id": 2545252,
+      "name": "London-Code-Dojo"
+    },
+    {
+      "id": 2590642,
+      "name": "iotlondon"
+    },
+    {
+      "id": 2722152,
+      "name": "aperoChic"
+    },
+    {
+      "id": 3183732,
+      "name": "Data-Science-London"
+    },
+    {
+      "id": 3213312,
+      "name": "teamcoding"
+    },
+    {
+      "id": 3248472,
+      "name": "Alternative-nightlife"
+    },
+    {
+      "id": 3257112,
+      "name": "Toronto-Nature-Lovers"
+    },
+    {
+      "id": 3356892,
+      "name": "opentoronto"
+    },
+    {
+      "id": 3760982,
+      "name": "IOToronto"
+    },
+    {
+      "id": 3837542,
+      "name": "Startup-Grind-Toronto"
+    },
+    {
+      "id": 3926102,
+      "name": "DataforGood"
+    },
+    {
+      "id": 3930852,
+      "name": "Find-A-tech-Job-In-London"
+    },
+    {
+      "id": 3971352,
+      "name": "eatnmingle"
+    },
+    {
+      "id": 4425132,
+      "name": "uxtoronto"
+    },
+    {
+      "id": 4473242,
+      "name": "DevTOEvents"
+    },
+    {
+      "id": 4509142,
+      "name": "Startup-Grind-Shanghai"
+    },
+    {
+      "id": 4514522,
+      "name": "Augmenting-Reality"
+    },
+    {
+      "id": 4629342,
+      "name": "promenades-et-randonnees"
+    },
+    {
+      "id": 4774122,
+      "name": "London-Economics-Book-Club"
+    },
+    {
+      "id": 4967132,
+      "name": "coinscrum"
+    },
+    {
+      "id": 5407492,
+      "name": "decentral_ca"
+    },
+    {
+      "id": 5698162,
+      "name": "Startup-Metrics-Toronto"
+    },
+    {
+      "id": 6088872,
+      "name": "ChinaBusinessEvents"
+    },
+    {
+      "id": 6240772,
+      "name": "Python-Toronto"
+    },
+    {
+      "id": 6295482,
+      "name": "meetmeout"
+    },
+    {
+      "id": 6753292,
+      "name": "Singularity-University-UK-London"
+    },
+    {
+      "id": 6787822,
+      "name": "London-Artificial-Intelligence-Futurists"
+    },
+    {
+      "id": 6827872,
+      "name": "Free-Meditation-Yoga-London"
+    },
+    {
+      "id": 6952782,
+      "name": "Affordable-Yoga-in-Paris"
+    },
+    {
+      "id": 6980842,
+      "name": "Paris-Live-Music-Addicts-Club"
+    },
+    {
+      "id": 7115932,
+      "name": "Big-Data-Silicon-Valley"
+    },
+    {
+      "id": 7393802,
+      "name": "tripmeeters-paris"
+    },
+    {
+      "id": 7524152,
+      "name": "Paris-Bitcoin-Meetup"
+    },
+    {
+      "id": 7535872,
+      "name": "Growth-Hacking-Toronto"
+    },
+    {
+      "id": 7678822,
+      "name": "FintechTO"
+    },
+    {
+      "id": 7863042,
+      "name": "SiliconValleyVirtualReality"
+    },
+    {
+      "id": 7992432,
+      "name": "centre-culturel-aft-com"
+    },
+    {
+      "id": 8020082,
+      "name": "CityEntrepreneursOne"
+    },
+    {
+      "id": 8339522,
+      "name": "Paris-Machine-learning-applications-group"
+    },
+    {
+      "id": 8611312,
+      "name": "London-Virtual-Reality-Developer-Meetup"
+    },
+    {
+      "id": 8761002,
+      "name": "Internet-of-Things-Paris"
+    },
+    {
+      "id": 8931222,
+      "name": "AnalyticsNetwork"
+    },
+    {
+      "id": 9114182,
+      "name": "Nodejs-Paris"
+    },
+    {
+      "id": 9474322,
+      "name": "BFPLondon"
+    },
+    {
+      "id": 9505562,
+      "name": "Big-Data-Developers-in-Toronto"
+    },
+    {
+      "id": 9516272,
+      "name": "Big-Data-Developers-in-London"
+    },
+    {
+      "id": 9809782,
+      "name": "Paris-Startup-Founder-101"
+    },
+    {
+      "id": 10118682,
+      "name": "Culture-sortie-expositions-promenade-jeux"
+    },
+    {
+      "id": 11495642,
+      "name": "Parisian-Secret-Cocktail-Club"
+    },
+    {
+      "id": 11625512,
+      "name": "Wearable-Wednesday-Toronto"
+    },
+    {
+      "id": 12060942,
+      "name": "ethereum"
+    },
+    {
+      "id": 12103862,
+      "name": "Society-of-Data-Miners"
+    },
+    {
+      "id": 12205442,
+      "name": "fintech-for-good"
+    },
+    {
+      "id": 12364332,
+      "name": "FinTech-Startups"
+    },
+    {
+      "id": 12615172,
+      "name": "bitmaker"
+    },
+    {
+      "id": 12713192,
+      "name": "Deep-Learning-London"
+    },
+    {
+      "id": 12820932,
+      "name": "full-stack-to"
+    },
+    {
+      "id": 12851302,
+      "name": "Toronto-Ember-JS-Meetup"
+    },
+    {
+      "id": 13393172,
+      "name": "Cognitive-Toronto"
+    },
+    {
+      "id": 13396162,
+      "name": "Paris-New-Tech"
+    },
+    {
+      "id": 13764032,
+      "name": "ethereumtoronto"
+    },
+    {
+      "id": 14064142,
+      "name": "PyData-London-Meetup"
+    },
+    {
+      "id": 14588472,
+      "name": "InsuranceTech"
+    },
+    {
+      "id": 14690722,
+      "name": "Mi-Spanish-for-your-English-TORONTO-Meetup-Group"
+    },
+    {
+      "id": 14770142,
+      "name": "IBM-Bluemix-Paris-Meetup"
+    },
+    {
+      "id": 15170532,
+      "name": "ReactTO"
+    },
+    {
+      "id": 15596902,
+      "name": "Legal-Innovation-Paris"
+    },
+    {
+      "id": 15981952,
+      "name": "TechCityCoffee"
+    },
+    {
+      "id": 16658062,
+      "name": "Web-VR"
+    },
+    {
+      "id": 16766372,
+      "name": "Le-Wagon-Paris-Coding-Station"
+    },
+    {
+      "id": 16936312,
+      "name": "Data-Natives-London"
+    },
+    {
+      "id": 17095432,
+      "name": "Paris-La-Culture-Francaise-Meetup"
+    },
+    {
+      "id": 17375432,
+      "name": "GTA-Social-Impact-SROI-Meetup"
+    },
+    {
+      "id": 17473462,
+      "name": "Toronto-Software-Team-Lead-Meetup"
+    },
+    {
+      "id": 17657992,
+      "name": "Big-Data-Paris"
+    },
+    {
+      "id": 17815122,
+      "name": "ClubStartups-Paris"
+    },
+    {
+      "id": 18050942,
+      "name": "Toronto-Techno-Crypto"
+    },
+    {
+      "id": 18211462,
+      "name": "crowdtouching"
+    },
+    {
+      "id": 18214876,
+      "name": "UK-Computer-Vision-Meetup"
+    },
+    {
+      "id": 18259255,
+      "name": "Data-for-Good-FR"
+    },
+    {
+      "id": 18288573,
+      "name": "erisltd"
+    },
+    {
+      "id": 18318814,
+      "name": "NLU-London"
+    },
+    {
+      "id": 18356664,
+      "name": "Digital"
+    },
+    {
+      "id": 18382294,
+      "name": "MeetNewPeopleInLondon"
+    },
+    {
+      "id": 18398623,
+      "name": "london-wearefintech"
+    },
+    {
+      "id": 18399955,
+      "name": "Cryptovest-FS-Bitcoin-Bootcamp-and-Investment-Club"
+    },
+    {
+      "id": 18406299,
+      "name": "The-Bitcoin-Bay"
+    },
+    {
+      "id": 18434692,
+      "name": "Non-Disclosure-NDA-and-Non-compete-Agreement-Discussions"
+    },
+    {
+      "id": 18445553,
+      "name": "Meetup-Mashup-London"
+    },
+    {
+      "id": 18450132,
+      "name": "London-Fintech-Marketing-Meetup-184606429kJgbYYNQ"
+    },
+    {
+      "id": 18451107,
+      "name": "Innovation-Asset-Management-Meetup"
+    },
+    {
+      "id": 18461823,
+      "name": "49-spadina-techs-connect"
+    },
+    {
+      "id": 18464962,
+      "name": "ReactJS-Paris"
+    },
+    {
+      "id": 18466812,
+      "name": "London-Hack-and-Tell"
+    },
+    {
+      "id": 18505833,
+      "name": "Toronto-Hack-and-Tell"
+    },
+    {
+      "id": 18508329,
+      "name": "FintechTuesday"
+    },
+    {
+      "id": 18510196,
+      "name": "COINPLUS-Bitcoin-and-Blockchain"
+    },
+    {
+      "id": 18512688,
+      "name": "London-Salsa-Meetup-learn-how-to-dance-salsa-in-london"
+    },
+    {
+      "id": 18516675,
+      "name": "London-Hedge-Fund-Startups"
+    },
+    {
+      "id": 18535628,
+      "name": "London-Cambridge-Spark"
+    },
+    {
+      "id": 18539460,
+      "name": "Deep-Learning-Toronto-Meetup"
+    },
+    {
+      "id": 18552053,
+      "name": "YouHadOneFinTechJob"
+    },
+    {
+      "id": 18560283,
+      "name": "Paris-AI-Robotics-IoT-Meetup"
+    },
+    {
+      "id": 18568471,
+      "name": "Toronto-Machine-Learning-Book-Club"
+    },
+    {
+      "id": 18578891,
+      "name": "Full-Circle-Art-Group"
+    },
+    {
+      "id": 18581527,
+      "name": "data-visual-London"
+    },
+    {
+      "id": 18594949,
+      "name": "NextMoneyLDN"
+    },
+    {
+      "id": 18623787,
+      "name": "FinTech-Toronto"
+    },
+    {
+      "id": 18645674,
+      "name": "London-Cognitive-Computing-Meetup"
+    },
+    {
+      "id": 18654966,
+      "name": "London-Kaggle-Meetup"
+    },
+    {
+      "id": 18657875,
+      "name": "Applied-Deep-Learning-Meetup"
+    },
+    {
+      "id": 18660042,
+      "name": "Neurons-AI-UK-London"
+    },
+    {
+      "id": 18674626,
+      "name": "London-Data-Science-Journal-Club"
+    },
+    {
+      "id": 18676952,
+      "name": "Espresso-Martini-Fintech-Innovation-Meetup"
+    },
+    {
+      "id": 18706900,
+      "name": "London-ODSC"
+    },
+    {
+      "id": 18742048,
+      "name": "Data-Scientist"
+    },
+    {
+      "id": 18747940,
+      "name": "New-Cool-Friends"
+    },
+    {
+      "id": 18748189,
+      "name": "LondonAI"
+    },
+    {
+      "id": 18764491,
+      "name": "FintechforHumans"
+    },
+    {
+      "id": 18788220,
+      "name": "London-singles-travel-club"
+    },
+    {
+      "id": 18836287,
+      "name": "London-FinTech-Meetup"
+    },
+    {
+      "id": 18851797,
+      "name": "data-science-clinic-london"
+    },
+    {
+      "id": 18856397,
+      "name": "Financial-Modeling-Quants-Bankers-and-Analysts"
+    },
+    {
+      "id": 18877407,
+      "name": "DataTech"
+    },
+    {
+      "id": 18895349,
+      "name": "fridayfintechbreakfast"
+    },
+    {
+      "id": 18934376,
+      "name": "AppliedAI"
+    },
+    {
+      "id": 18952913,
+      "name": "Hardware-Academy-by-Hardware-Startup-IO"
+    },
+    {
+      "id": 18979039,
+      "name": "South-England-Natural-Language-Processing-Meetup"
+    },
+    {
+      "id": 19063005,
+      "name": "FranceFintech"
+    },
+    {
+      "id": 19099170,
+      "name": "Quality-Value-Investing"
+    },
+    {
+      "id": 19109169,
+      "name": "London-Applied-ML-AI-Meetup"
+    },
+    {
+      "id": 19121859,
+      "name": "TensorFlow-London"
+    },
+    {
+      "id": 19160643,
+      "name": "Blockchain-Toronto"
+    },
+    {
+      "id": 19187250,
+      "name": "CanadaBitcoin"
+    },
+    {
+      "id": 19224989,
+      "name": "Paris-Machine-Learning-Reading-Group"
+    },
+    {
+      "id": 19270394,
+      "name": "Crypto-Valley-Forum"
+    },
+    {
+      "id": 19392494,
+      "name": "London-Unreal-Engine-Meetup"
+    },
+    {
+      "id": 19495426,
+      "name": "Toronto-Digital-Currency-Compliance-Meetup"
+    },
+    {
+      "id": 19506007,
+      "name": "Ethereum-Developers"
+    },
+    {
+      "id": 19590500,
+      "name": "New-to-the-UK-London"
+    },
+    {
+      "id": 19625477,
+      "name": "Deep-Learning-Lab"
+    },
+    {
+      "id": 19726545,
+      "name": "Hyperledger-London"
+    },
+    {
+      "id": 19738252,
+      "name": "Hyperledger-Toronto"
+    },
+    {
+      "id": 19738266,
+      "name": "Hyperledger-Paris"
+    },
+    {
+      "id": 19812801,
+      "name": "Artificial-Intelligence-Deep-Learning-Enthusiasts-Meetup"
+    },
+    {
+      "id": 19824454,
+      "name": "Long-Now-Toronto"
+    },
+    {
+      "id": 19836643,
+      "name": "FinTech-Users-Customers-FinTech-Services-UX-Paris"
+    },
+    {
+      "id": 19837163,
+      "name": "Legal-Hack-Toronto"
+    },
+    {
+      "id": 19843266,
+      "name": "Paris-Bots-Meetup"
+    },
+    {
+      "id": 19878701,
+      "name": "sandbot"
+    },
+    {
+      "id": 19880859,
+      "name": "Data-Science-Festival-London"
+    },
+    {
+      "id": 19911171,
+      "name": "humanisingtech"
+    },
+    {
+      "id": 19967844,
+      "name": "Workshops-AI-Bots-Machine-Learning"
+    },
+    {
+      "id": 19980873,
+      "name": "BlockchainCanada"
+    },
+    {
+      "id": 19985376,
+      "name": "Elite-Parties-London"
+    },
+    {
+      "id": 20060096,
+      "name": "Blockchain-Startups-Toronto"
+    },
+    {
+      "id": 20063059,
+      "name": "Blockchain-Startups-Israel"
+    },
+    {
+      "id": 20134293,
+      "name": "DAO-TLV"
+    },
+    {
+      "id": 20180856,
+      "name": "VRTuesday"
+    },
+    {
+      "id": 20208115,
+      "name": "Blockchain-SmartContract-Innovators"
+    },
+    {
+      "id": 20211081,
+      "name": "FintechCanada"
+    },
+    {
+      "id": 20222883,
+      "name": "NextTopFintech"
+    },
+    {
+      "id": 20226373,
+      "name": "Bots-AI-Messaging-Meetup"
+    },
+    {
+      "id": 20229657,
+      "name": "CognitionX-Community"
+    },
+    {
+      "id": 20237684,
+      "name": "insurtech_fr"
+    },
+    {
+      "id": 20275260,
+      "name": "DevOps-University-London"
+    },
+    {
+      "id": 20300119,
+      "name": "meetup-group-FSgTXMvo"
+    },
+    {
+      "id": 20328992,
+      "name": "Cambridge-Fintech-Network"
+    },
+    {
+      "id": 20394472,
+      "name": "Dataiku-London-Meetup-Group"
+    },
+    {
+      "id": 20397617,
+      "name": "Bots-and-Artificial-Intelligence"
+    },
+    {
+      "id": 20399973,
+      "name": "Creative-AI"
+    },
+    {
+      "id": 20444479,
+      "name": "Toronto-Legal-Hackers"
+    },
+    {
+      "id": 20455128,
+      "name": "TO-Fintech"
+    },
+    {
+      "id": 21124117,
+      "name": "London-WebVR-Meetup"
+    },
+    {
+      "id": 21258384,
+      "name": "Africans-In-AI"
+    },
+    {
+      "id": 21291979,
+      "name": "Big-Data-and-Machine-Learning-London"
+    },
+    {
+      "id": 21567104,
+      "name": "meetup-group-artificial-Intelligence"
+    },
+    {
+      "id": 21651029,
+      "name": "Impact-Investor-Club"
+    },
+    {
+      "id": 21946352,
+      "name": "bot-monetization"
+    },
+    {
+      "id": 22021080,
+      "name": "graphs"
+    },
+    {
+      "id": 22273983,
+      "name": "Toronto-Artificial-Intelligence-Deep-Learning"
+    },
+    {
+      "id": 22660304,
+      "name": "London-Alternative-Investment-Meetup"
+    },
+    {
+      "id": 22791986,
+      "name": "RecSys-London"
+    },
+    {
+      "id": 22805163,
+      "name": "Melon-Meetup"
+    },
+    {
+      "id": 22813592,
+      "name": "BlockchainGlobal"
+    },
+    {
+      "id": 23030245,
+      "name": "London-Machine-Intelligence-Quants-Meetup"
+    },
+    {
+      "id": 23255442,
+      "name": "Data-Scienziati-of-London"
+    },
+    {
+      "id": 23268408,
+      "name": "Beating-Humans-in-Cognition"
+    },
+    {
+      "id": 23721211,
+      "name": "Blockgeeks-Blockchain-Developers"
+    },
+    {
+      "id": 23735592,
+      "name": "meetup-group-XErzmxks"
+    },
+    {
+      "id": 23746197,
+      "name": "Secret-Japanese-Supper-in-London"
+    },
+    {
+      "id": 23800875,
+      "name": "HackTank"
+    }
+  ]
+}
