@@ -14,17 +14,33 @@ d3.csv("result.csv", function(d) {
     d.Count = +d.Count;
     if (d.Count > 3) return d;
 }, function(error, classes) {
-    if (error) throw error;
+    appendNodes(error,classes);
+});
 
-  var root = d3.hierarchy({children: classes})
+function updateSlider(slideAmount) {
+    var display = document.getElementById("chosen");
+    //show the amount
+    display.innerHTML=slideAmount;   
+    d3.select("svg").selectAll("*").remove();
+    d3.csv("result.csv", function(d) {
+        d.Count = +d.Count;
+        if (d.Count > slideAmount) 
+            return d;
+    }, function(error, classes) {    
+        appendNodes(error,classes);     
+    }); 
+}
+
+function appendNodes(error,classes){
+    if (error) throw error;
+    var root = d3.hierarchy({children: classes})
     .sum(function(d) { return d.Count; })
     .each(function(d) {
         d.id = d.data.ID;
         d.count = d.data.Count;
         d.class = d.data.Name
-    });
-
-var node = svg.selectAll(".node")
+    });    
+var node = svg.selectAll("*")
     .data(pack(root).leaves())
     .enter().append("g")
     .attr("class", "node")
@@ -51,4 +67,4 @@ node.append("text")
 
 node.append("title")
     .text(function(d) { return d.id + "\n" + format(d.value); });
-});
+}
